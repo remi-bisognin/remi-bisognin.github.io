@@ -6,17 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: remi.bisognin.github.io
+title: Phantom by HTML5 UP
 description: > # this means to ignore newlines until "baseurl:"
-  Ce site sert à fournir aux élèves une page d'accès aux différents documents
-  utilisés en classe de Physique-Chimie en MP au Lycée Saint Exupéry de Mantes-la-Jolie.
+  This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
+  image tiles (of which you can have as many or as few as you like). Makes use of some
+  SVG and animation techniques I've been experimenting with on that other project of mine
+  you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
 baseurl: "/Phantom-Jekyll-Theme" # the subpath of your site, e.g. /blog
-url: "https://remi-bisognin.github.io/" # the base hostname & protocol for your site
+url: "http://bcasal.github.io" # the base hostname & protocol for your site
 
 # Contact settings
-email: remi.bisognin@ac-versailles.fr
-twitter_username:
-github_username:  remi-bisognin
+email: your-email@domain.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdowm: kramdown
