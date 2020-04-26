@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Physique-Chimie | MP | Saint Exupéry | Mantes-la-Jolie
+description: > # this means to ignore newlines until "baseurl:"
+  Ce site sert à fournir aux élèves une page d'accès aux différents documents
+  utilisés en classe de Physique-Chimie en MP au Lycée Saint Exupéry de Mantes-la-Jolie.
+baseurl: "/Phantom-Jekyll-Theme" # the subpath of your site, e.g. /blog
+url: "https://remi-bisognin.github.io/" # the base hostname & protocol for your site
+
+# Contact settings
+email: remi.bisognin@ac-versailles.fr
+twitter_username:
+github_username:  remi-bisognin
+
+# Build settings
+markdowm: kramdown
+
+kramdown:
+  input:      GFM
+  auto_ids:   false
+
+exclude: ["README.md", "LICENSE.md", "screenshot.png"]

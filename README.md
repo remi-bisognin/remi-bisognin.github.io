@@ -1,6 +1,6 @@
 # remi-bisognin.github.io
 
-Ce projet sert Ã  fournir aux Ã©lÃ¨ves une page d'accÃ¨s aux diffÃ©rents documents
-utilisÃ©s en classe de Physique-Chimie de MP au LycÃ©e Saint ExupÃ©ry de Mantes-la-Jolie.
+Ce projet sert à fournir aux élèves une page d'accès aux différents documents
+utilisés en classe de Physique-Chimie de MP au Lycée Saint Exupéry de Mantes-la-Jolie.
 
-RÃ©mi Bisognin
+Rémi Bisognin
