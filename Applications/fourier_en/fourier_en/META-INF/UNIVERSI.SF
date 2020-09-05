@@ -1,0 +1,3225 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 2Me5Z3AAQJD9kJjd+3H1LwFJlyr53
+ saygj8jpqw53Aw=
+SHA-256-Digest-Manifest: 3Z1DGbCq8oR2XgPbSY1i1mRDY69uQ4AmjDRPjIx097g=
+Created-By: 1.8.0_101 (Oracle Corporation)
+
+Name: edu/colorado/phet/fourier/view/AmplitudeSlider$KnobEventListener
+ .class
+SHA-256-Digest: urGHpLF+TfBzFadx4t97h7IW1tw1wBAIWOiJ0mWNnKE=
+
+Name: edu/umd/cs/piccolox/pswing/PSwing.class
+SHA-256-Digest: H7AxzlBuqZwK4E+nubqBTRO9V7eyZeFZUhFoUVvRDrA=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$Simu
+ lationInfo.class
+SHA-256-Digest: AZqb2CFGc4kxMo3/t1sshDiYzINbPdHdQ7VEsOH1ptI=
+
+Name: javax/jnlp/FileOpenService.class
+SHA-256-Digest: 6zBPtlT74GB8xjUQSbIureUGK7llA4dJduBYC7ThKMo=
+
+Name: edu/colorado/phet/common/piccolophet/PhetRootPNode$WorldNode.cla
+ ss
+SHA-256-Digest: mJGTMHe+z/jFQephfYeE38D05bzi+hlIGNdRa3q6O4s=
+
+Name: fourier/localization/fourier-strings_iw.properties
+SHA-256-Digest: ym89wrHAu5K1zB8YHJwpx5gpwPFZEx7NjRKRMArG+Z8=
+
+Name: edu/colorado/phet/fourier/control/FourierOptionsMenu.class
+SHA-256-Digest: hprXuIcfOn1zGp9JIxhkV8uhv1LmH2RpjIjbxDaqjiw=
+
+Name: edu/umd/cs/piccolox/pswing/PSwing$2.class
+SHA-256-Digest: FjVZiO+aZNjGpHh0h+xzus2LNJEEAsQ1YCcmN0E+bbs=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/UpdateErrorD
+ ialog.class
+SHA-256-Digest: wKdCNl48u8Fg+51NeCgq8+X6B3JOtWKkpewxPhM9bvQ=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/GraphicsUtil.cla
+ ss
+SHA-256-Digest: uApvjyXzEUFPavZU+KGfe9SjSMXJwU2lRrzDAcAgX6c=
+
+Name: edu/colorado/phet/common/piccolophet/help/GlassPaneCanvas$3.clas
+ s
+SHA-256-Digest: aJMvKo0/pVd75Q6iVp/S3DMi3luj/GBTURBIqg/H9AY=
+
+Name: images/arrow-down.png
+SHA-256-Digest: FU6NvsDG0Q+N96nHOZlcpsH7cnlQGUnOsFcgGZcyDEQ=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$10.class
+SHA-256-Digest: X+I+QR5ZAhg3Hv5qUIPSPzMqfnVSbCMmxdF8/iVbY4k=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetZo
+ omControl$ZoomListener.class
+SHA-256-Digest: qgDdDuvjOoa1mI8kcJcwbuD/7lHIM2Nl5fUIVVEHzP4=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager$MessagePane.class
+SHA-256-Digest: mypD46lT+gl7Uu5JaLcbKUNPHlaxkKxGsgeEW2QkBfE=
+
+Name: edu/colorado/phet/fourier/module/D2CModule$4.class
+SHA-256-Digest: Ubh8pqBq5hP4fwlxh/ysWtd6VtgHw0zQks1CBFd9B94=
+
+Name: edu/umd/cs/piccolo/activities/PActivityScheduler.class
+SHA-256-Digest: lhU0T1bgFeuE68XjlwyOd3FqEyPkwPmfkbBrDOXRPXw=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/ControlPanelProper
+ tiesMenuItem.class
+SHA-256-Digest: AJu4SfHoDQ7RPgEKFNECsMKW1sFNMrhtGhJ5+MSNz4Q=
+
+Name: edu/colorado/phet/common/phetcommon/util/logging/LoggingUtils.cl
+ ass
+SHA-256-Digest: EzV6isZa04F5qCe9UhJOtwUqb6WPIETAEIsU0UHuW5A=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/HTMLUtils.class
+SHA-256-Digest: AvDur26VHADGRgVSp7R3b5gPPIR9g0JnLcpP/cbWFH8=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingEventHandler.class
+SHA-256-Digest: 8L5vNXQ31RGL+G3u/J/3w5Q5MJ2bTMoB7vDcy26arog=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d$TestModule$2.class
+SHA-256-Digest: fsUUwKzBsCuLM/fLBbTc7iBxH+k+jmeJ/M1arN2s3GM=
+
+Name: edu/colorado/phet/fourier/module/GameModule$ModuleVisibleListene
+ r.class
+SHA-256-Digest: VB4u3yuy5oZGujsZyKFRr09CLZ2MHrp7emRmjM4US58=
+
+Name: edu/umd/cs/piccolo/event/PInputEventListener.class
+SHA-256-Digest: bsZVXMOa0ZpkocIu3xGP4l9bgA9ghu7Tf5980jBwNyw=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as.class
+SHA-256-Digest: EjBFi+82ts1DGX0ilLZe3kceLT43WdJgl2E3H46EOEY=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetPersistenceD
+ ir.class
+SHA-256-Digest: 91BBn1IWb3gHR2Ukvia6O7olFzirSo5LMIHv9CV71VM=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$7.class
+SHA-256-Digest: Hbrpy8yY/FFdfIrUzcdv1E6ePO2DuqWxj8r1CAIjG2k=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplicationL
+ auncher$1.class
+SHA-256-Digest: 4Gb5sMR8euuAYZoE19qGraqs17aXN5lTS5v9Hge3zcs=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetImag
+ eGraphic.class
+SHA-256-Digest: wNxNt4SBoWa8Mmp7/EEsEbxTuHss74Q0oM2GDT/OwmE=
+
+Name: edu/colorado/phet/common/phetcommon/application/ISimInfo.class
+SHA-256-Digest: D2PAfq2KJUXxxdakm7F++EvQ8vOhhtQd+MuhOAa7sxs=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteHarmonicsChart.c
+ lass
+SHA-256-Digest: E8fyRZSvHGsdJjc9/nYlpcKjlPZ82QyYlHyZNIJI/HA=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PreferencesDialo
+ g$1.class
+SHA-256-Digest: oi0gJf/swhMULN9dm0f9fMQChutcigkRg6zKAqaHuPE=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/ImageLoader$Conver
+ sionStrategy.class
+SHA-256-Digest: vOdl2l/umMn+2ZCvznyHj5JsVe3ozqW0xvwSJTDUVeg=
+
+Name: edu/umd/cs/piccolo/event/PDragSequenceEventHandler$1.class
+SHA-256-Digest: 1X/CuEXzKL4RJtLwNNS14NYhwsH2gx7z3yTweigx80M=
+
+Name: edu/colorado/phet/common/piccolophet/PhetPCanvas$1.class
+SHA-256-Digest: LqX0JpoZUHSfaoAGgszYHK8VPo+fWvbU+IenlZI5y7c=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/OptionsMenu.class
+SHA-256-Digest: NE1GwglLMNFYz3MHSbUiwc54lkxuURekNob+0AGSTq4=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$CancelButton.class
+SHA-256-Digest: CvDdJNAJSsJZooQpsdAfIFhZzSUftDyB7lRMl1Orx3o=
+
+Name: edu/colorado/phet/fourier/view/tools/WavePacketSpacingTool.class
+SHA-256-Digest: xQosxqX7Z0DZI+Fdkox5Cs0PaXkU6k/1lLNRnWiigbI=
+
+Name: edu/colorado/phet/common/phetgraphics/application/ClockPausedHan
+ dler.class
+SHA-256-Digest: iJ//fJLohtZDEVS6FBafhY1iitjRhNmss1ouYoTcuHg=
+
+Name: edu/colorado/phet/common/charts/StringLabelTable.class
+SHA-256-Digest: YaChyYD2J2OJYw/8TF6QIPlyrPF2a+FHHn6Tux6wjz0=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteSumEquation.clas
+ s
+SHA-256-Digest: NrK4PY9+2LN5KjuaJG9x8d+5leqAEid/dcme9PQEOhY=
+
+Name: edu/colorado/phet/common/phetcommon/view/TimeControlPanel$2.clas
+ s
+SHA-256-Digest: hjGWUqW1hyzfiFRrYP7tw1L9ZPJXvohQ1tus5TUD0zI=
+
+Name: edu/colorado/phet/common/piccolophet/event/CursorHandler$CursorM
+ anager.class
+SHA-256-Digest: ANW7uxc5UtIltb87pKwed7OLAp257u07Mu5ScAjvXPY=
+
+Name: javax/jnlp/PrintService.class
+SHA-256-Digest: qXETU0Jem3U9b2kA4P0wqoc/wenow1FJmynMuwkjEP8=
+
+Name: edu/colorado/phet/fourier/charts/AbstractPointPlot.class
+SHA-256-Digest: Kt18p+rFPBYAvUcXbV7iNLtBsVkJ8DKPnTYVy3W7myY=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/Abstract
+ MediaButton.class
+SHA-256-Digest: nQC9QbYzSG9q9LK3Kshs4F+mR2YsOUbKRcgOtBIfCzA=
+
+Name: junit/swingui/icons/ok.gif
+SHA-256-Digest: Uy9j3X5Y2/bm1VQg/u5pp4BmRV1pyme5uLsSeohFZXA=
+
+Name: edu/colorado/phet/fourier/view/tools/HarmonicPeriodTool.class
+SHA-256-Digest: Rem9NnWhf1NpXswZdijJinCn/QsiTb2YIIkffwCvSZ4=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel$5.class
+SHA-256-Digest: l2sU/ApyKVXbmBGZiF70Oo9EC6+X5D+Y2FziFZ8vYMU=
+
+Name: phetcommon/localization/phetcommon-strings_ko.properties
+SHA-256-Digest: GQuZJYh8wvADOCd1k2J+RFOYkEukASIlCqJBEwdVGqQ=
+
+Name: edu/umd/cs/piccolo/nodes/PImage.class
+SHA-256-Digest: 5e1VJK8cYjOqqbMeJdwDJ73Gunk0YPUi8CqKh8nNcPU=
+
+Name: edu/umd/cs/piccolo/PRoot$1.class
+SHA-256-Digest: LFg3LsUwfD/3xtmloObHZvfKCtuf+CEK4v80LJXQTns=
+
+Name: edu/colorado/phet/common/phetcommon/util/DownloadThread$Download
+ ThreadListener.class
+SHA-256-Digest: C3oqrvtkiM4LJX9iht29AePbz7Bc6bQkL/OVOYa4Aj0=
+
+Name: edu/colorado/phet/common/phetcommon/view/controls/ColorControl$2
+ .class
+SHA-256-Digest: YJYlQZN+LmfRLyZwR5KmaAVkzPLrXOxLRCCcHJaD2K4=
+
+Name: edu/colorado/phet/fourier/module/FourierAbstractModule.class
+SHA-256-Digest: N71YDO7wOj9FAVil1Hbiu65lF/DSBlcwK56iZC9BXmM=
+
+Name: org/eclipse/swt/package.html
+SHA-256-Digest: mhYcXXrZnSMdbnOF40U4het2ZFPwHcyTU3zmE8olKC0=
+
+Name: edu/umd/cs/piccolox/pswing/PComboBox.class
+SHA-256-Digest: F6auh6AArF8X9moFSh78zCuBUG8Y9UXcy9tkUvP46Mk=
+
+Name: edu/colorado/phet/fourier/event/HarmonicFocusListener.class
+SHA-256-Digest: gFiOPyc5Z59tUSItrqT2zIHHbBzYLftgJDP027/+U40=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedModulePanePiccolo.cla
+ ss
+SHA-256-Digest: ZRvNDMes5SQhChMY7bIlo6CTtrsDgGrxEmjyH/xzNQc=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplication$
+ 2.class
+SHA-256-Digest: 5+LohNNHykTR/lci0sIUBC7zaEn2huk+oC1PGTa04U8=
+
+Name: phetcommon/images/buttons/maximizeButton.png
+SHA-256-Digest: P1TRB2igTYn7hWgV5fQN9rAU2UslTgAicmdj6dqoAHc=
+
+Name: edu/umd/cs/piccolo/event/PZoomEventHandler.class
+SHA-256-Digest: NZOy61RuYRff1msFmM6/Dlx3/9H/iQzsuoq5Gc6bF/o=
+
+Name: piccolo-phet/images/velocity_point.png
+SHA-256-Digest: kkO2jWdlJpx473dKssVX8JBpwkDNG52jcqRBGOgyjgA=
+
+Name: piccolo-phet/images/license.txt
+SHA-256-Digest: Sk516xyjRkPzhKN5KXInDBuiISGQmZ7bklpHx9/gfHM=
+
+Name: edu/colorado/phet/common/phetcommon/view/ResetAllDelegate.class
+SHA-256-Digest: IXFEEuRq6Un3dWAKdMuO79biZwWgs9ctrCBipe1vy8s=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/SessionMessage.cl
+ ass
+SHA-256-Digest: uioqM7zkUcPx0uASYIBdsFXOlueYW4UPq+Sd9c5avP4=
+
+Name: edu/colorado/phet/fourier/event/HarmonicColorChangeEvent.class
+SHA-256-Digest: f7bnpghYKIcOg0nXTVhirjsO37B27VsF4mdn1rlp+ag=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$TabPane$1.cl
+ ass
+SHA-256-Digest: TXRQT2D9vLKMvh9ZXClkv4ruuhWhpTmRXEof3XERs78=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d.class
+SHA-256-Digest: pZ1xdztlx9JrZdzWUo7dx1EyT/Ms5g7Vhcm2QCkbBsk=
+
+Name: edu/colorado/phet/common/charts/AbstractGrid.class
+SHA-256-Digest: H+7cOZTE0gwp7VL+7nYIYZ9zJqNUdb68QGQK4+rhA/0=
+
+Name: piccolo-phet/images/zoomOutButton.png
+SHA-256-Digest: Ol36Xwc4FWec1asriV0BlYiICMzSvJ6AM2xoNrrDfls=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager$AcceptanceDialog$2.class
+SHA-256-Digest: SaxuwGCypz+YqhbzGA4XldYWr8QXgwLkqBGwO9Ndnd4=
+
+Name: edu/colorado/phet/common/phetcommon/view/JTabbedModulePane$1.cla
+ ss
+SHA-256-Digest: iIAmapX+nz889vvOVvRp+nlmsKM50hUKr3gTzbW8K6Y=
+
+Name: edu/colorado/phet/fourier/charts/FlattenedChart.class
+SHA-256-Digest: 8y2df1FSEDvMf9MQvgKmJMCVp9RqGzDfJinhkhljIZg=
+
+Name: org/eclipse/swt/accessibility/package.html
+SHA-256-Digest: zuCc0u4ejv41FS6J7TJFQBu4v6MlkudhbmjbPGB0Zjo=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow$
+ 1.class
+SHA-256-Digest: 5xFAc9oBjGqIRqAQushkaHAud/x1OZLdGJKEzsbnl5s=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesDialog.
+ class
+SHA-256-Digest: ftwatU7U5LIeosjvOolw/MqKrIUhM9kDEihZrMaYZ3w=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/RectangleUtils.cla
+ ss
+SHA-256-Digest: P/u8tdGuWDNg9MUyDgMkwnErQl2q3GaI1eWpa0zXKoo=
+
+Name: edu/umd/cs/piccolo/util/PObjectOutputStream$1.class
+SHA-256-Digest: LGH9o5+uDSocidjEadKaZ7gVHINQYZ4kQ15n2Fu3ajY=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$20.class
+SHA-256-Digest: rVoDN5MvRUihi0gFpvRtoX8dZbmNYxl1vBMQ2m94QJU=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingEvent.class
+SHA-256-Digest: hc2NCxjhQQVIaRY9FGKXw7GY85lnWQ/8swTxBmVCMTU=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d$TestModule.class
+SHA-256-Digest: BveX+dzp+VoE8tjZcdEJ2rapgv09MeFxcZAzZqTRVB0=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingRepaintManager.class
+SHA-256-Digest: pUm15P10O3ECsMqnt/Ghqsr0DBdoGn58AeKMfxqy5Mk=
+
+Name: phetcommon/localization/phetcommon-strings_el.properties
+SHA-256-Digest: RC1ZMQL72lWe/DqU8zd+0dU/Hb7lG82DroXFVALYJJc=
+
+Name: phetcommon/localization/phetcommon-strings_de.properties
+SHA-256-Digest: cT8fBNHCNf7eUIYcUEo/VbN0F5P8RVfchCt7adxM/SY=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/GraphicsState.cl
+ ass
+SHA-256-Digest: c6wvxlrFcpW7pvtEblgb2aBeRBFjasg2/gjtK+6OkPU=
+
+Name: fourier/contrib-licenses/piccolo2d-license-piccolo.txt
+SHA-256-Digest: MYg/5Ax0WgvLRRB2k5LAJAvpjlKOCTgZTsF47KORWgU=
+
+Name: piccolo-phet/images/velocity_right.png
+SHA-256-Digest: wy9Z/PLojTfAZ/UMAimTqGCnK883pnI7tat6pAaR4wI=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$7.class
+SHA-256-Digest: xULaS70BjxxnLxV05jNTqO2tjxnVWMgCXnNrHBM0LtQ=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/DeveloperMenu.clas
+ s
+SHA-256-Digest: cXMTzXtbDrhoSrUbWQmOZRDBxI7mn7HqfEKTSOm2ESU=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$Simu
+ lationInfo$1.class
+SHA-256-Digest: ag30jNn/DGvezRS2rLTi2DutnYBtP8CIGdeEt7UUmG4=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$12.class
+SHA-256-Digest: fLtqfhicN6JG+K5w0parwthmy/ynRTfey8bss26wDgs=
+
+Name: edu/colorado/phet/fourier/model/GaussianWavePacket.class
+SHA-256-Digest: WLgalR1UZFv5FpcTKYKbq0y3uDk+ChyFaUyMeewEu6A=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$UpdateButton$1.class
+SHA-256-Digest: KGvhjrvSoxwolAzo0B7RM5nL1bxWSc+EqQ/Pz+8UERQ=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/IconButt
+ on.class
+SHA-256-Digest: zNWfj4pI9o7d5bHMthCMolwTij/So8l/+b8/+nohezQ=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetTestApplicat
+ ion$1.class
+SHA-256-Digest: 7vEYBqBzV28n8TARYdUzcc26VW/sROVsNhXgYTDH8Ok=
+
+Name: edu/colorado/phet/common/phetcommon/application/PaintImmediateDi
+ alog.class
+SHA-256-Digest: gZyksnYC+P3utCH/jtIR+rHL425lZggAGgKTUQcVI5g=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog.class
+SHA-256-Digest: 7S0mZy9FYxaDV7VMJSYcx9sE1ZvgjSc8HmMRCTz72Xs=
+
+Name: fourier/images/license.txt
+SHA-256-Digest: OyFaznn7A8Vnrhh/UrKUntSBj7C+rRjJ3nMeplcw6Yg=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/Abstract
+ MediaButton$MyRescaleOp$1.class
+SHA-256-Digest: a64YqZWIGvl3AxfjWw0x9SvgbAI66wWnmBKM7mRlrdY=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$8.class
+SHA-256-Digest: gdw355DE+AZYBC4Q9Z/BOk0w1YDaUwssZIZH15w1AxI=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetZo
+ omControl$EventListener.class
+SHA-256-Digest: ugMKjj28xszDDUMjZnHSzMe2LOrp3Wk/4SCbSa9v5cg=
+
+Name: fourier/localization/fourier-strings_vi.properties
+SHA-256-Digest: Ib3PH1FzDTHL1UYNhhn3TQgaSQw0FE1uJo0wuIQgWCE=
+
+Name: edu/colorado/phet/common/piccolophet/event/ButtonEventHandler.cl
+ ass
+SHA-256-Digest: DDXVMPqK1JE/+A9Zhg/zCtDqwLkLw0k+kDZ8Z1YE6ew=
+
+Name: fourier/localization/fourier-strings.properties
+SHA-256-Digest: CosHQP4k8hJqPRZ/MjGDVDawMlYED3T/doiXQ+2TyMk=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ColorChooserFactory.
+ class
+SHA-256-Digest: jL87XYAvifxco7PPex2CWgGf6o6+0nYZZ2n0Xy9vt3k=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$2.class
+SHA-256-Digest: XlXbsg/4OlvbpMbkYUdwRI2fea2RcvGbg9+vXiw+E60=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame$6.class
+SHA-256-Digest: Zklq41kPnoI8/TMtE8UUnJFU5oeZPx7KD9fJa1o0J1k=
+
+Name: edu/colorado/phet/fourier/view/AmplitudeSlider.class
+SHA-256-Digest: ktuzJLtMWMf/X8lbO13G6I/q47M+Y06AIDrJ/qG2IY4=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel.class
+SHA-256-Digest: gSSu0da0p7ws6PYPAes/4rcY4YPdfsBGIvd7Ik3I/ns=
+
+Name: phetcommon/localization/phetcommon-strings_lv.properties
+SHA-256-Digest: 2cg/tEkB8VV9Jc4VKwVmHXpAtTEqhzSZKmw6KckHXa0=
+
+Name: edu/colorado/phet/fourier/view/tools/HarmonicWavelengthTool.clas
+ s
+SHA-256-Digest: A2l08k1vvAOtEBdVc87TKDUoAjiodWSIRA7e2S0KtSM=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrameWorkaround.cla
+ ss
+SHA-256-Digest: CziaHhyOSvEDn2K9zSqZzHa9yAU9hR2K5t7A2cUxh14=
+
+Name: edu/colorado/phet/common/phetcommon/application/SessionCounter.c
+ lass
+SHA-256-Digest: Plprpjc5X+opBVkYtLWejYLNuglCtYTkAanqH3IIXhU=
+
+Name: edu/colorado/phet/common/charts/SinePlot.class
+SHA-256-Digest: 5NM8lJ+3Xbt+VdT0g4LjUQEhJFKxlREApgbsFDbWcZo=
+
+Name: fourier/contrib-licenses/license-info.txt
+SHA-256-Digest: xLBhjHI6OJ6GGhzeZ5YZH/uXfkHdjfNJzcyfk5pqjQ8=
+
+Name: javax/jnlp/JNLPRandomAccessFile.class
+SHA-256-Digest: 6Je/W3UfNCcJAJF6LtMLg+JYUE7ZoxPn/nJz7WowLho=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: WBX4CAf6jHKUJYXLnm5fj1o4G9Ljcd6GuDFc1sycakQ=
+
+Name: images/zoom/zoomOutButton.png
+SHA-256-Digest: zww9oFvkKMXY1q6nQ8ED4gPOdCPIbzWvoK7l3oVrG7I=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tDialog$1.class
+SHA-256-Digest: laT0bDvZhGqu8kEVXD6lj8Szla5FX9f4OZTUIrOYd40=
+
+Name: edu/colorado/phet/common/phetcommon/view/ResetAllButton.class
+SHA-256-Digest: n7NUsuoLS9qRqJW4YmRs74fwOcY3tqfXN5IGnrYPytg=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/Abstract
+ MediaButton$MyRescaleOp.class
+SHA-256-Digest: qJS8SyiBNi8ZNPdr7Qyd+opAmchDGve+2njct5N6pqA=
+
+Name: edu/colorado/phet/fourier/control/sliders/WavePacketCenterSlider
+ .class
+SHA-256-Digest: 1b1LTdtxtF9th0RqDTnX/IoRnkku5Y0hozs92NIqgZw=
+
+Name: edu/colorado/phet/fourier/module/GameModule$1.class
+SHA-256-Digest: 8l6CXg5gSVVWWKeiFJ0sFfoaECrHgWFtCzrw1Sn74S0=
+
+Name: phetcommon/localization/phetcommon-strings_fa.properties
+SHA-256-Digest: Bz8se8sMsitSgiIRsyV+LVGAJv5uvkmuFRENCCVg7PE=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$TestModule$MyGlassPane.class
+SHA-256-Digest: KrmSfN67FPqf28ALO47s5tCszCOGzvfNPInHpGKVQWM=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Panel
+ ResizeHandler.class
+SHA-256-Digest: JP8+bra/gXvj1VoJxI+ZRWGh7B0OUnpZC0PnEwzDtvE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$NoButton$1.class
+SHA-256-Digest: dIicn9iZCVCMI2huaZVwTFfTDl59S2YlCasZbzSAGkI=
+
+Name: edu/colorado/phet/fourier/persistence/FourierConfig$GameConfig.c
+ lass
+SHA-256-Digest: RW3DeufxVeIFeABvdgEFjWRj+F8vJ1vw0iEJ2HitBx4=
+
+Name: edu/colorado/phet/common/phetcommon/resources/DefaultResourceLoa
+ der.class
+SHA-256-Digest: 6VjoE+zbySX5TLg3WxZFLrs8IzAgy8YAgLGEUY6s2So=
+
+Name: org/eclipse/swt/widgets/package.html
+SHA-256-Digest: r5fFXEHM0Toh/blF3Zg4e5Bxubs7MAz3RSyVxQk4BAM=
+
+Name: edu/colorado/phet/common/phetcommon/util/LocaleUtils.class
+SHA-256-Digest: I4vfN9BTGq7EkYVjuhqJw13fjjFdkzzYtZo4qRiNxlk=
+
+Name: piccolo-phet/images/velocity_left.png
+SHA-256-Digest: QgjZR9/6Pw6pBedaLNJQYOzqsPVkRDeXzY5YSoGYwdE=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetZo
+ omControl.class
+SHA-256-Digest: FRhWbiL1wIxoZTb5geZ1vftl5TMLJL1Z6yvTFMul7K0=
+
+Name: edu/colorado/phet/fourier/persistence/FourierConfig$DiscreteConf
+ ig.class
+SHA-256-Digest: /Ib3iXeVI0BNy6+DWEu65zw36JOn+wcwa8CdVSGxL0w=
+
+Name: edu/colorado/phet/common/phetcommon/math/Vector2D.class
+SHA-256-Digest: Ev1PG6n9KrB6rHAqT1vtEWaBKY9Z6B6doidHXVZc/9c=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetTestApplicat
+ ion.class
+SHA-256-Digest: V5Y0qrZ5hMLGlH8lkom1fTtHkusDka8c0UI9Pgz5R34=
+
+Name: phetcommon/localization/phetcommon-strings_ja.properties
+SHA-256-Digest: VOwJWL4faS8Z9WwMw1kK+IoIIn2bMvKSMbrQ+/Y0+DQ=
+
+Name: phetcommon/images/buttons/minimizeButton.png
+SHA-256-Digest: gp745P5JGSegOOCeElaqtphrhLPnwiiOjtLj40LjgHg=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ColorChooserFactory$
+ 1.class
+SHA-256-Digest: /s/15zRLJ8fPKFMJkIYVsv4r4ipZYm0w78Ra6ufCDEk=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PlayPaus
+ eButton.class
+SHA-256-Digest: JDRpN1tGWVDbmOat0tcFfEA4+55HXXFQzEdiDjOZFc0=
+
+Name: edu/colorado/phet/common/piccolophet/PhetPCanvas.class
+SHA-256-Digest: A9vgjYCPYCKEEx9Wp33GL5rqsa7dbWjZUrH1g+uxXvg=
+
+Name: fourier/localization/fourier-strings_pt.properties
+SHA-256-Digest: 3Nhjozc/ulYQmumqj4nNTunY4z+AGW/daRgf5BgXNv4=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$MouseMotionListenerMethod.class
+SHA-256-Digest: R0XPyMEjgwJWBYz7pP6RTZVk0yDKhRdMYDuAnN25Lr4=
+
+Name: edu/colorado/phet/fourier/control/FourierComboBox.class
+SHA-256-Digest: nK0Iz+7tQnfJjpVwBrZsRljUNL53BGO/AQ2fxCuDTik=
+
+Name: edu/colorado/phet/common/phetcommon/view/TimeControlPanel.class
+SHA-256-Digest: YyBrZFjALPtCsmbwru5G1p1u1m2RCLIXoKnim8GSlzI=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$AbstractObjectSaveLoadStrategy.class
+SHA-256-Digest: xrQO4GP/mEyL87qatp+XffUwVVhwWQfj45B41WqOvlI=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tDialog.class
+SHA-256-Digest: BgiazbU4xL/80KUxJJ4U4dzeKOJ8EXVIFwBrrc7qOf4=
+
+Name: fourier/contrib-licenses/FourierOscillator-oscillator-license.tx
+ t
+SHA-256-Digest: 4GB4a4UpOrIAXOFiMCtRbhuTEQOws3BjCjABBcVGarE=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og$ThisDownloadThreadListener$3.class
+SHA-256-Digest: roztraURAP4VxnNSRVdem3l0b985XNnHcP1dxegbkwE=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame$5.class
+SHA-256-Digest: G9KsjhGxJIdkuvScefw0lkbnppNvGkHLbGN7dN7FPVc=
+
+Name: edu/colorado/phet/common/phetcommon/view/ModulePanel.class
+SHA-256-Digest: Z3ITGrb/Nydr20Qhiq5GII+48wYt7dQRlzntzO+eO2U=
+
+Name: edu/colorado/phet/fourier/module/D2CModule.class
+SHA-256-Digest: mlZ23nMTZ/V5uJiSKZJ254evc44tSX9NXLSyHwuX120=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog.class
+SHA-256-Digest: Esq6wTxWxvsO37tM1PLiYTvimMemx7mfw+QagtBiNa8=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedModulePanePiccolo$1.c
+ lass
+SHA-256-Digest: lLUps7n7b3nESafb1OVm75u9ZkpbB5o1Sq84LMSJ1ws=
+
+Name: edu/colorado/phet/common/charts/Chart$Listener.class
+SHA-256-Digest: YnJaKKfndjM/yxuZuRFcTJWIqGIr+y2A8XQEMKFFdBo=
+
+Name: edu/colorado/phet/fourier/enums/Preset.class
+SHA-256-Digest: ++KGNvuHpEbt6MajvEdjKEEo6+JyyJi9Mqo06j05Jdc=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og$1.class
+SHA-256-Digest: E7AsJa+0ZoNjMI/jZavK6dKZ4MGUk5lIndVhgFABktI=
+
+Name: edu/colorado/phet/common/phetcommon/util/DeploymentScenario.clas
+ s
+SHA-256-Digest: JixZHYD/kz9+ijNEZAyyuFlKfwEBtocnNE620qC6Dg0=
+
+Name: phetcommon/localization/phetcommon-strings_cs.properties
+SHA-256-Digest: bu8kcDUx+e0okwmP0JZLXaXMcaGJLLSx4PnN4pcoulE=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$11.class
+SHA-256-Digest: lNGRqNxsg3HFfvLsbvOz2spihzbO4sEBGnABcBEyOjI=
+
+Name: phetcommon/images/clock/sun-license.txt
+SHA-256-Digest: RsyLylPyZoN6fiE86ZEbGqq0h2vHqhcxrFicgQvW96I=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$7.class
+SHA-256-Digest: rQvqZDOspRYGK2tPTmDAFtv1yG8LSqRZUFwsnypkESk=
+
+Name: edu/colorado/phet/fourier/module/GameModule$2.class
+SHA-256-Digest: mB5gc9+j4O+5t+Wyi5thujzunvk8nTdld640OZ6McgM=
+
+Name: phetcommon/images/clock/Stop24.gif
+SHA-256-Digest: TXmjfpXu6rLOo4RujWt6Bq429OlCtzEytQv8LIMjoTE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$SkipVersionButton$1.class
+SHA-256-Digest: Koi1MC5wj1oXqv6lNMxMjvUjkkPsDnEjwB0TaqOoVRI=
+
+Name: edu/colorado/phet/common/piccolophet/help/HelpPane$1.class
+SHA-256-Digest: AMnjnLAbT7rHEjGm4adDvhF4FXJW6eatzgdXw9S+qfg=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule.class
+SHA-256-Digest: DxjrdCdD4eQ/ISTQ1vynT4S7pnmK5brLdLytUsao0e8=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/PhetAboutDialog$1.cl
+ ass
+SHA-256-Digest: CQ5dbQozqUv+ADgoVBXdr/bF5XtCfkQK5oiAv1nG3b0=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingEventHandler$ButtonData.class
+SHA-256-Digest: 4ZIDxbU8E+bsB4TwquWV9omZIyrl9tPznIg5cdp3ovQ=
+
+Name: edu/colorado/phet/common/phetcommon/util/PhetUtilities.class
+SHA-256-Digest: G1cBFlyNZbIiEcIcvFavIXtrislVgCHnoIE07bPOYE8=
+
+Name: phetcommon/localization/phetcommon-strings_nl.properties
+SHA-256-Digest: vJtnX5S1OHcP4bHw9NezGqRh+nMrQAO2S41YnQFLxU4=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu.class
+SHA-256-Digest: NqnjBEqvj1ZnSL1t/V+4gyYfQG1v4iZ4gsHGcfV3ms0=
+
+Name: edu/colorado/phet/fourier/module/FourierAbstractModule$1.class
+SHA-256-Digest: QvHtTqpPf6Q6n3RQ+mdqFMVnAZwPYqUY5Wno+ir7/yQ=
+
+Name: edu/colorado/phet/common/phetcommon/updates/ManualUpdatesManager
+ $1$1.class
+SHA-256-Digest: AVubP48oYH94TOo2gWgBpNUFFxI/t6GeP3pr/J2R+uU=
+
+Name: edu/colorado/phet/common/phetgraphics/application/ClockPausedHan
+ dler$1.class
+SHA-256-Digest: mHE4ZBq/ThZiaOxqTxLOZf9HK5NFnwKwbIWG0EIEsjY=
+
+Name: fourier/localization/fourier-strings_es.properties
+SHA-256-Digest: ewLL1TfDSevYAzAbx6PxG86kWerZTR4VB0Skq7y0htc=
+
+Name: edu/colorado/phet/common/phetcommon/view/SoftwareAgreementButton
+ .class
+SHA-256-Digest: 21h68OihK+NIH8tk5nTN/ERZlLce2+rG8I9mlF0tXrY=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/Abstract
+ MediaButton$1.class
+SHA-256-Digest: 04N3FGuQtJi+B0NP7DmjqW8CGmdCVv78gVRzZlmX6RQ=
+
+Name: edu/colorado/phet/common/charts/GridLineSet.class
+SHA-256-Digest: PxL6n6V6m2RMoJmJhecgZDvTIuU9X08sZL/xjoYbRGQ=
+
+Name: edu/colorado/phet/fourier/view/tools/AbstractHarmonicMeasurement
+ Tool.class
+SHA-256-Digest: aUgSN7lPgwOBrBPaU6Abbq0cchFtUOeSR4i81di5Qpc=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplication.
+ class
+SHA-256-Digest: 0nC3rY198XeDqf9qAhbi8z8k/xb5es8swXMAv0rZ5gs=
+
+Name: edu/colorado/phet/fourier/sound/FourierOscillator.class
+SHA-256-Digest: aphICkmrLXhBswcBLgw3p0pm4H4ei2ekt7UruzniHWU=
+
+Name: org/eclipse/swt/internal/package.html
+SHA-256-Digest: 3JF/XDRznTuQoFKsrDGU1JdEv0OyBEGoJPZoN6lYU84=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$1.cla
+ ss
+SHA-256-Digest: QGlYjVc/jlkbRcA3YH1fEmnP8YyW/ZCF+jIAh1OJ6bM=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/SwingClock$1.cla
+ ss
+SHA-256-Digest: DLWbg2T/RWrHETxU7uVYdapkGLrg/eV40WtWSxx5o/4=
+
+Name: fourier/contrib-licenses/think-tank-maths-license-LGPL-3.txt
+SHA-256-Digest: wSzGpVh10L9RbTruLnSnoWzW1uQVX/WF7GkCnfRMrJk=
+
+Name: fourier/localization/fourier-strings_pl.properties
+SHA-256-Digest: IvxIKUBPQb3mUVwaTgX0Es+zRX/NfRoNh7HXA9EH87E=
+
+Name: org/eclipse/swt/layout/package.html
+SHA-256-Digest: cRdzVJp/AYcS2EbdcioBuaxkhTje4tngRh1J4IK+KHk=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/CompositeMouseIn
+ putListener.class
+SHA-256-Digest: HjiVCme0sNvmLjSDoAnbFJJ2bkMiU9TwwKOMU8+vn8U=
+
+Name: edu/colorado/phet/common/phetcommon/updates/ManualUpdatesManager
+ .class
+SHA-256-Digest: YuEWXHuVj5O9z7hYuYEQQizUlwpzcZr3m2BgkHfG6F8=
+
+Name: phetcommon/localization/phetcommon-strings_sr.properties
+SHA-256-Digest: uw+0XxeOPpXsogOBqpDvWID3rLc5cICDSVzicFUAxKk=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$8.class
+SHA-256-Digest: HqJtrs0kT4jXYPx5CENvnDPCdadOvcWupKttaiJooos=
+
+Name: edu/colorado/phet/fourier/view/game/GameAmplitudesView.class
+SHA-256-Digest: +ceLstGRWyF7lX8AoNBDfOV4Af6pGiXcH3Fb9Dq7kLg=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame$1.class
+SHA-256-Digest: rJ4m6vumCkxDgt6Id4x5nUCaxM6D8VrK690w+scht+A=
+
+Name: phetcommon/localization/phetcommon-strings_ro.properties
+SHA-256-Digest: P/pVLkuo2kzujxSJgHCleTWf9nptpSzhM4qw+HZF1Mg=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher.clas
+ s
+SHA-256-Digest: E2k8XY7lX6uD4JdNqbJBgWsr1VcW3x3Vt/EanOpk0ag=
+
+Name: edu/colorado/phet/common/phetcommon/updates/AutomaticUpdatesMana
+ ger$2.class
+SHA-256-Digest: NXe2fbMMO4dixC27YYcDWef0wS8u1tSOiy0Z5VSkCFA=
+
+Name: fourier/localization/fourier-strings_zh_TW.properties
+SHA-256-Digest: vsarWfjH6cNZhqn8rMWUC9LeCyX1yARHvhoVVziWX/k=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/PhetAboutDialog$2.cl
+ ass
+SHA-256-Digest: jyd8+HWkkENfCUuvI7ZxbLTslbNMKsdnU+nJ5sf1tp4=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estClock.class
+SHA-256-Digest: p/hkMLsMvuRnmdfYc1uFqxkhbOKki7pmWH8AyFP6fkU=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingCanvas$ChildWrapper.class
+SHA-256-Digest: sV5brSECP1RYCrk2e+Bgy1QothuS7IY1ot56q2mrMOQ=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager.class
+SHA-256-Digest: 9JWWDhaDm97qUQZPEGhG45zinDz8jeHB4u3e2Gp3REA=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetLookAndFeel.class
+SHA-256-Digest: ndeeqSKNM9Hqq0nZhwYVEygWoSXwu9GzXEEry7vkxCo=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/PhetAboutDialog.clas
+ s
+SHA-256-Digest: rTrHo1d+/Y5UfZgLu5G+1r2YCKT2O+M7jfa/9McIgTw=
+
+Name: edu/umd/cs/piccolo/event/PDragSequenceEventHandler.class
+SHA-256-Digest: bXJFbP1j2yTTP4Ha6mKX9q8o1V2CNVH3jN9FwO85mXs=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule$ThisWiggleMeGrap
+ hic.class
+SHA-256-Digest: nIq54SY6douTYh57vJ/d6fM7BqDUMaTY3+MfXu68s8Y=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ErrorDialog.class
+SHA-256-Digest: B5EFzyhD+kgfXDLSKsiFJU9pbVUncN7J4+kuFd6/1BU=
+
+Name: edu/colorado/phet/common/charts/Orientation.class
+SHA-256-Digest: EtH+To7h8KfTXd2Ws5C63BouUlrDgD/UXNgYi/Ecz3Y=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingEventHandler$1.class
+SHA-256-Digest: YN7Y1Lf2vms4DZgNIyVU26EBxLeuQyEClES7M7qZ0fA=
+
+Name: edu/umd/cs/piccolox/pswing/PComboBox$PBasicComboPopup.class
+SHA-256-Digest: e0JPKJ2F99zndQkv6E+WTMa9pAB/FbTwQOM3ElbqQfM=
+
+Name: fourier/images/soundMax.png
+SHA-256-Digest: Im8Ukk3um0VJBMnd8Okw+HQ6NeUNh7seLmworeAV1f8=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$NoButton.class
+SHA-256-Digest: nlG4P0pHyqueHM/2HCSjtsqHNJIvK8UWVMOxG/txBtM=
+
+Name: software-agreement.htm
+SHA-256-Digest: 7VOIUyYexRyKmzojpzmVCEXsuutCxIlTibQqSjfyOJU=
+
+Name: phetcommon/images/clock/Play24.gif
+SHA-256-Digest: wutN2THTQW1ztPt5x1TrpVQFdhw0GrQD1JpWMmIeD00=
+
+Name: fourier/localization/fourier-strings_km.properties
+SHA-256-Digest: IM/VSMKY2joYhmFuhheP/Wn/0MgNzibke89zVIrVhGw=
+
+Name: edu/colorado/phet/common/charts/Axis.class
+SHA-256-Digest: 10yjSdgO2SXhaHNhWQBvmkvTdJP+xEovMrBRqB8Ld7Y=
+
+Name: edu/colorado/phet/common/phetcommon/view/ControlPanel$DefaultScr
+ ollPolicy.class
+SHA-256-Digest: qixW03QA1tcOysjLAPiNan63NkNacuGNBHC4Xg0jW9k=
+
+Name: edu/colorado/phet/common/piccolophet/event/ToolTipHandler.class
+SHA-256-Digest: nzgNNzX5ZlJIajlXhRhXWiDI2oZPYtq5Hw2lbWnqKfw=
+
+Name: phetcommon/localization/phetcommon-strings_sv.properties
+SHA-256-Digest: qvo5hBHNbMPS6UAIWatBoQ2FTqJPLnL7yeLJpVHy1M4=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsManager
+ $StatisticsRunnable.class
+SHA-256-Digest: Up27pSs+dFcnwGzX6rx2fyIftFvmc1cdhxRAr33N0m0=
+
+Name: edu/colorado/phet/common/piccolophet/help/HelpPane.class
+SHA-256-Digest: PmzQ3t9UlV72uehd2eHOoPox+JZKxvJ6giiaMGCpocU=
+
+Name: org/eclipse/swt/internal/awt/win32/package.html
+SHA-256-Digest: IixYvny7kvIZ8LJDmA2xSy9qYCwCvy5/PTQlEoa6tJo=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetLookAndFeel$1.class
+SHA-256-Digest: SPefgCAx9lodtSpdH52JqkynrihDf1dq5C1iu0DixAk=
+
+Name: edu/colorado/phet/fourier/event/HarmonicFocusEvent.class
+SHA-256-Digest: FwjJMyxxJ8vR1OLzapbu1d7ZThtpxotE2FcW3I3FgzE=
+
+Name: edu/umd/cs/piccolo/PCanvas$MouseMotionInputSourceListener.class
+SHA-256-Digest: 7gKxFtp6QLdh1tb1fqmj84yD0/FbnVSXxJ1P7oM4Wes=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$UpdateButton$1.class
+SHA-256-Digest: Fz2GRgiKc86sE6Em80ZXkqh1k8fqZKqfn+/RTsovzp0=
+
+Name: edu/colorado/phet/common/phetcommon/model/Command.class
+SHA-256-Digest: uXhH+BxyzDMrJL5uEBO/A+uL2rMAIvcrsnbSiP6FmJg=
+
+Name: edu/colorado/phet/fourier/module/D2CModule$3.class
+SHA-256-Digest: vfsHNJUWAqrY5nFfDdcHVvSwWA1Wsebd+wcZITcRbMA=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/Clock.class
+SHA-256-Digest: tCDCOrZqQ19eE2IIypYqJ0Piw8gSPzJJhzDc0nPVoYA=
+
+Name: org/eclipse/swt/events/package.html
+SHA-256-Digest: 988Y2oMf+uDZBQOVCz4x/hRZVWG1qQVwIDA/y4XPqqU=
+
+Name: edu/colorado/phet/common/phetcommon/servicemanager/LocalBasicSer
+ vice$BrowserControl.class
+SHA-256-Digest: uyQgw/1kp84emZbxiknLhsVYkEpYl/zI2dzCNp8/94M=
+
+Name: fourier/contrib-licenses/swt-cpl-v10.html
+SHA-256-Digest: sXc7cXn9Lds2O71wQ7G+yjtmRWaGa0d5sa5bKxwBOuo=
+
+Name: edu/colorado/phet/common/phetcommon/math/MathUtil.class
+SHA-256-Digest: qe8Mc8oExgXH+Qzsi9nw4FmOxVh+RAJnZ2vD4CpkiZY=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetGrap
+ hic.class
+SHA-256-Digest: DWAQaOlHgjO7R16gz3a9IuQRGDka3ERQLdkB857uvFI=
+
+Name: edu/colorado/phet/fourier/FourierResources.class
+SHA-256-Digest: kz4uF79Y+3fSBCMsyvd+sfHv56squaP4x4sXdNRb8sE=
+
+Name: edu/colorado/phet/common/phetcommon/view/HelpPanel$2.class
+SHA-256-Digest: ogahc3yBgr0eu9pOTRtmpgz708xtq0TfBC9/sPqoQZc=
+
+Name: edu/colorado/phet/common/piccolophet/help/GlassPaneCanvas.class
+SHA-256-Digest: Odg8YbF95r/Ug4n7vUFWRdryfPmrwQcTc/ae39t2eQs=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PhetPreferences.
+ class
+SHA-256-Digest: A1MBtI4sapdCwk3Y8AS9DkWXozuZ0dmECAJ9xi1RG60=
+
+Name: images/zoom/zoomInButton.png
+SHA-256-Digest: 0VwQ8rcqAXrtkcmyGlj0xlcQDkWRt9YJeAuv4zBaJU0=
+
+Name: edu/colorado/phet/common/piccolophet/PhetPCanvas$RenderingSizeSt
+ rategy$1.class
+SHA-256-Digest: h03dV83svqiJ96xRPjQUrq+sBiY0qHSa8VFTeDDpMNA=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$1.class
+SHA-256-Digest: EvCayhhOUY1rKHCFgpnWUIaM1uC2pOl17VweSzy3YJY=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/HTMLUtils$Interact
+ iveHTMLPane.class
+SHA-256-Digest: y06oJzVzbmlleG6xtL3EI7X4JehLw9kNtHsrc2y10ZY=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpPane.clas
+ s
+SHA-256-Digest: mYWzF39ArVAQd6SaYTNWXTOr2bHEVkjFZXw934PkBio=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$TestModule$MyGlassPane$1.class
+SHA-256-Digest: 3VprDys7OD8whUAJAGAMGjS+vBWmXBNW9j/6pTdGnk4=
+
+Name: edu/umd/cs/piccolo/util/PPickPath.class
+SHA-256-Digest: ypJBz1llO7WxrFDZzKgQGZUaG1wBVJHEB3n+J916ul8=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplication$
+ 1.class
+SHA-256-Digest: vY8mYN9by518yQl/Wrj/dt1YLaXXsOOzhq4xeYLtD9k=
+
+Name: edu/colorado/phet/fourier/control/FourierAbstractControlPanel.cl
+ ass
+SHA-256-Digest: kfyKrSmW5LaXDcf5WV/ATIMEKoc8QZT/pV9Rvr2cgXQ=
+
+Name: edu/colorado/phet/common/phetcommon/view/ITabbedModulePane.class
+SHA-256-Digest: dmu+1VGXViVvPMedHq9BJHAeYf+ptec66A+Dbtiv27I=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$JARL
+ auncherGUI.class
+SHA-256-Digest: MAG4/afwv9L6ewGHhX6gHFCHvjT5STkpPGQIYBha4lk=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/ImageLoader.class
+SHA-256-Digest: jvMN7iQb60Xez+wNYjdLO1mwY2dmSIvTkmFcMvAmLLU=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/ControlPanelProper
+ tiesMenuItem$2.class
+SHA-256-Digest: IkJ/EWzCQAD80tDV27BnL4A+WoRLTQt91Al2ygUTGAo=
+
+Name: edu/colorado/phet/common/phetcommon/view/graphics/transforms/Com
+ positeTransformListener.class
+SHA-256-Digest: 46vDg+RsOwyv0k9cAbBmBrd/Ve8T3rxjZRPE8Q/xC54=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$21.class
+SHA-256-Digest: DG0FYMHhCZhICGXioRVlEezft5z9nbVPp6K0X2zyeB4=
+
+Name: phetcommon/localization/phetcommon-strings_vi.properties
+SHA-256-Digest: NjsIOgb3k+5dKZu5hLdqnpwuC7zddej7Sdqrmh6kkeM=
+
+Name: edu/colorado/phet/common/phetcommon/view/graphics/transforms/Tra
+ nsformListener.class
+SHA-256-Digest: L6WJXvETwuBgOlXdJc3KeI2E4q/Pyx86AQm/x28bZxQ=
+
+Name: org/eclipse/swt/graphics/package.html
+SHA-256-Digest: 8FEMHkRSX9R7geFjpjp6tdV+9sUbi5cikfHmxs39GTA=
+
+Name: edu/colorado/phet/common/phetcommon/math/TrigCache.class
+SHA-256-Digest: gLnIi3vT9Kgl2L4iORg10GsESMsxOpJY5lUfi0kTKn8=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpPane$Test
+ Module$1.class
+SHA-256-Digest: qu/rNgJu02Yc1zAKC29nP4kTtRDYLnZBXF87u0vF85o=
+
+Name: edu/umd/cs/piccolo/util/PObjectOutputStream$1ZMarkObjectOutputSt
+ ream.class
+SHA-256-Digest: I9BqQ5K4vM6KlCqOm7V/J2gxr25NdWIAQaIfakwFxfA=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$MoreButton$1.class
+SHA-256-Digest: OBqRWsCMP45Frsi7GBJFbFTnb+IdVLPOizimOfdujqI=
+
+Name: edu/colorado/phet/common/phetcommon/util/FileUtils.class
+SHA-256-Digest: SWtpcFXIZeaXtpKFAHNYOBwtqUQPY4vVjqrElPDdmB4=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$4.class
+SHA-256-Digest: ED3/HstKZ8/3JPYPzquTngXuOgCxr9U5blGyhCF0UUA=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/SwingUtils.class
+SHA-256-Digest: 8jbD0fTJL7c/TDhjvpIbZFaeCO6Lw7SjBmZiO/HaTa4=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PJCFoc
+ usManager$MyPolicy.class
+SHA-256-Digest: UKk4kMdLnOBTgTw06Bnpzr0RMjuAj9103huThdIjT7I=
+
+Name: edu/colorado/phet/common/charts/LinePlot.class
+SHA-256-Digest: 7Z8yX8zdS9xAZOAjFnkdoMtKe7hr56el5bulfzBI7JM=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/PhetFileMenu$2.cla
+ ss
+SHA-256-Digest: ky+8LLc8egWvBZ9xMe+kIa+t0g3gCDtykL7AqvOt5YY=
+
+Name: edu/colorado/phet/common/phetcommon/resources/IResourceLoader.cl
+ ass
+SHA-256-Digest: qdsLmUKn9jeyuwWSUTR6vGqqjYs9VNE5x/ZDGLxW1GA=
+
+Name: edu/colorado/phet/common/phetcommon/util/AnnotationParser.class
+SHA-256-Digest: jkpubtLuPqcSUJFeZf7Vj02AKIIoBLJA1Y9rnsjK0E8=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteAmplitudesView$1
+ .class
+SHA-256-Digest: 8y/+547xB28MUIlh7mHsFoQ+cmY1N5FpcRj9jrp39bQ=
+
+Name: edu/colorado/phet/fourier/charts/HarmonicPlot.class
+SHA-256-Digest: XD1UyYj+RkBZJFkbyOUEena34qWb1EhEdfClK+V2MkA=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$1.class
+SHA-256-Digest: iE+blT1XyB8D0/rQDwa2p5Q740ueJrARHEYL+wA1c8M=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$LocalSaveLoadStrategy$2.class
+SHA-256-Digest: fGJtmnr5dxkcjccBG3dcrTWDnp/9bavy069FnxiLu2M=
+
+Name: edu/colorado/phet/fourier/charts/FourierSumPlot.class
+SHA-256-Digest: 7w4F3OiDOePvS5N5Qxt/JPiERuK5fQ1MDEFf/PcmSOI=
+
+Name: phetcommon/localization/phetcommon-strings_tk.properties
+SHA-256-Digest: KUnkluSXDEO9VMfwHKMqvmuJPnFE49dPEUNDxBcwNMk=
+
+Name: edu/colorado/phet/common/phetcommon/view/ControlPanel$ContentPan
+ el.class
+SHA-256-Digest: 4mj/uqhiV3EQYRKbnZ4zcX6wK1yrkQAzwMzcG8XdYag=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$6.class
+SHA-256-Digest: YLFO9pMMYqafX4ECbmLCDplTNY4WQMv5njJZW3e0Sfk=
+
+Name: javax/jnlp/FileContents.class
+SHA-256-Digest: wfm17AEn5QM+PjDp2n7rrIt4GJ+reM7ucbUSfeulbc8=
+
+Name: fourier/localization/fourier-strings_de.properties
+SHA-256-Digest: wQ0Tqk8uTkjvVx+0rmvNpzx6sa5BuG9rZfKYGnxzbpk=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetShap
+ eGraphic$GeneralPathComparator.class
+SHA-256-Digest: VKLflGjzcYm8sDaokYcoNHKhBWIenkaPkQOAPa9AtLU=
+
+Name: edu/colorado/phet/fourier/model/Harmonic.class
+SHA-256-Digest: 2NUXQYIIqMNj8DgX5xhToq2UnKNMiHe42OuD5yA1m1Q=
+
+Name: edu/colorado/phet/fourier/view/MinimizedView.class
+SHA-256-Digest: E61YuXmfrIUAnWD6+7yfO9IcILmpZQfM2u/7VculpZo=
+
+Name: edu/umd/cs/piccolo/event/PDragEventHandler.class
+SHA-256-Digest: +KkZk2j8cZuWwl7Flaod+ixgJJr32z6nujvHR8B1XH0=
+
+Name: edu/colorado/phet/common/phetcommon/util/MultiMap$ForwardIterato
+ r.class
+SHA-256-Digest: L80uLt827rBFZzeQeATEUHuFgtqMbCfsLYDXXIk6y0Y=
+
+Name: org/eclipse/swt/custom/package.html
+SHA-256-Digest: zPSlujYZHwKJNsdSy4E1fxJpYDuu7jcSsO5qhMQLJoo=
+
+Name: org/eclipse/swt/internal/win32/package.html
+SHA-256-Digest: 3Ny3ILXxJlI27g+uoN21ZOKCQo68UEup3iBw+scFH2E=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ColorChooserFactory$
+ 2.class
+SHA-256-Digest: d7gszkOW7zQ8LMQc8fPGRm+etxNVAvkpx5qbqhwxPck=
+
+Name: edu/colorado/phet/common/piccolophet/PhetRootPNode$ScreenNode.cl
+ ass
+SHA-256-Digest: V3i6Ce7X2Bs+T+/FqJGDfeKfl+RmuzufwnuBrzZncTc=
+
+Name: fourier/localization/fourier-strings_lo.properties
+SHA-256-Digest: T0rFNXT5bmU2AXGbv7rEF9UxW1ZV9UTD863tlW2IgaQ=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$KeyMethod.class
+SHA-256-Digest: fxQ0fok/WbSun8Ul4mfvqkSXZI1K4c4DZEK1FtizoEc=
+
+Name: phetcommon/localization/phetcommon-strings_hr.properties
+SHA-256-Digest: zWMcU35Z/NZIRtnqrRt9FBx6jwAfhtVjOyQWgTcvWAw=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$PhetJComponentRepaintManager.class
+SHA-256-Digest: fsWG2XYajPjCqE1oxlIfcRYBNPHaFhspTGkHyRtQghg=
+
+Name: phetcommon/localization/phetcommon-strings_eu.properties
+SHA-256-Digest: kIdqodBq3pSpKOgtiWBU6G63tUCEFnDZZOS1PIpmG3w=
+
+Name: piccolo-phet/images/measuringTape.gif
+SHA-256-Digest: hnUSMedoMeRQ7n4gfmkjmfCjlhuJwzdxr3o3979PZVk=
+
+Name: edu/umd/cs/piccolo/PRoot$InputSource.class
+SHA-256-Digest: ytSKARSBlFqZO9egoE1mYIhULgytL/zpoQNSywIfhhA=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$6.class
+SHA-256-Digest: SZ6rxFz5V1D8zo++FMiNXbMtHmNKB+Pm/dKDDJz2W80=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ErrorDialog$2.class
+SHA-256-Digest: Ht9qZftI/+DY0dFXRVVTu5e4nbJupvSry1uukb9wNug=
+
+Name: edu/colorado/phet/common/charts/DataSet.class
+SHA-256-Digest: jmjVhDe8/cD+sNlvgX4PT+n7G2J4fJ3dmei5wYQsxHY=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$4.class
+SHA-256-Digest: qYWBo9zjGkXdD+FnfXQwDx3FMhgPXWCnbuNiqacIfjE=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/GraphicL
+ ayerSet$SwingAdapter.class
+SHA-256-Digest: 7wIfW86IhOUWkbjU1gzXy9glHTirOJyuh94YkBT0aiE=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$9.class
+SHA-256-Digest: memmDgl5fm/Y/scokPZI+dUUtixBrsscsgSbV/TezjI=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d$TestModule$3.class
+SHA-256-Digest: xcBLVwv4BluckucAQkesmhkKjBh0Bsh/CTmVqa4PcGE=
+
+Name: edu/colorado/phet/fourier/control/HarmonicColorsDialog$1.class
+SHA-256-Digest: NGfi63ubi22FNx48vjYFpT6KlQ9ittcwul5G5fwU1Ys=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tDialog$2.class
+SHA-256-Digest: PZHh4mZ5ZUtz1XzRp6fiuX/RFV0H4yD+tgfmKCEQb2Q=
+
+Name: edu/colorado/phet/common/phetcommon/updates/ManualUpdatesManager
+ $2$1.class
+SHA-256-Digest: WM6G/S/AfirQpf5tA+nfFrEzg2NOh4ZNUG6UmsRWZbM=
+
+Name: edu/colorado/phet/fourier/event/HarmonicColorChangeListener.clas
+ s
+SHA-256-Digest: HBAOSggLPW+HArJmtTKfyQD3G5fLTORhQ5nPHnKPQMY=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager.class
+SHA-256-Digest: H9I72SrqueHEORFctcQFQI4I/nfaWzFtPtvtAB4j/yY=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$6.class
+SHA-256-Digest: jj5oAg1BqZZMzBmWXqD5X7e85nAV16YTc+bbFJAGQGg=
+
+Name: edu/colorado/phet/fourier/view/tools/AbstractWavePacketMeasureme
+ ntTool.class
+SHA-256-Digest: vXZyNaeYNR4plbGB8KfizWMM5B07wZxw3ZB9MWvhP0Y=
+
+Name: edu/colorado/phet/common/charts/DataSet$Observer.class
+SHA-256-Digest: GrXUtyUXGcZ3hdF5Cw+h7ioc5M4Ou3ixLxCFp9/Va6M=
+
+Name: edu/colorado/phet/common/phetcommon/application/VersionInfoQuery
+ .class
+SHA-256-Digest: Wr7JXBwVBD6xdckHdYGziTPcIVfyWIo7Y9kvIQtEX+0=
+
+Name: edu/colorado/phet/common/piccolophet/help/HelpBalloon.class
+SHA-256-Digest: jxsEdc0RgIjoA7p62lCzmEdUvcfzmoehImtvwUkobxQ=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteAmplitudesChart.
+ class
+SHA-256-Digest: P34sAqbbCzPoMMW5ZFZd8Miu0c/YrgMbVXmttWG7bPY=
+
+Name: edu/umd/cs/piccolox/pswing/PSwing$1.class
+SHA-256-Digest: RvdaDUiTGAgZb0SdrCF1BbnYUh1ftkpgVSiCw2njuug=
+
+Name: phetcommon/images/logos/phet-logo-120x50.jpg
+SHA-256-Digest: FRscHhBNsIVOtt+wSGr6AbJwTrAlpeplVE7sVLmiwzk=
+
+Name: org/eclipse/swt/dnd/package.html
+SHA-256-Digest: 3DJpi0mCAHfd/Tov2yLBkTDh2tVmr5Dn8DwxnrD01AM=
+
+Name: edu/colorado/phet/common/phetcommon/application/Module$Listener.
+ class
+SHA-256-Digest: jog6VUIDiJb8cjp3WNBBOvjkYPqOP7Cb2M3FAG2lkDk=
+
+Name: edu/colorado/phet/common/phetcommon/resources/DummyConstantStrin
+ gTester.class
+SHA-256-Digest: Q9OQwmD2MiD6hWUBJKNLDCY+WXS+f+27pyODu8wTEUA=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/CachingImageLoader
+ .class
+SHA-256-Digest: eG1riE6XzedmCyl2g3XApGy7WqwB9DVh9O+gHOzLT+8=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpPane$1.cl
+ ass
+SHA-256-Digest: xFL8Xi5HQ1Ygj5WLOcQaHjs9wM757MNBiG56PS962M0=
+
+Name: piccolo-phet/images/lightBulbGlass.png
+SHA-256-Digest: aGIMyvnqUesR4fF6MSJIYV6uViiiyWnWxmT27h48fgw=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/DefaultI
+ conButton$Listener.class
+SHA-256-Digest: XaZbYzHoukbiihfads7bk9vguaW6Z1R954lID2qDRuw=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3.class
+SHA-256-Digest: CJZIfCIWE3q3RbQcbDgzYtVsGXtTW48bFUtarHLORB4=
+
+Name: edu/colorado/phet/common/charts/Axis$1.class
+SHA-256-Digest: vebYbeFBym3FCMHxA99Zec8k9/X+OLw7gB6fEy9MjMk=
+
+Name: edu/colorado/phet/fourier/module/GameModule$3.class
+SHA-256-Digest: eyWgs2G94wDqVRqI219t6fIYIIwk4GYLzGKb25satec=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d$TestModule$1.class
+SHA-256-Digest: MLwM/3UQYd6wTOzRrTb+hxYmaqEa4qsveaVX6aa+SLw=
+
+Name: phetcommon/localization/phetcommon-strings_sw.properties
+SHA-256-Digest: Ip3i/sXiuZrrZ2UOpF8JpMrbCdiO2VSc8ukSmfgyxCc=
+
+Name: junit/swingui/icons/error.gif
+SHA-256-Digest: qvilt45I6GV9khrvHBF0UP8D6WC3aiQEEHE3vHrMoXM=
+
+Name: edu/colorado/phet/common/phetcommon/util/JavaVersion$JREVersion.
+ class
+SHA-256-Digest: jcmL7Ry1ezyUwB45Jhv+ZAqwTc0/GplEWsITSq3yBvQ=
+
+Name: edu/colorado/phet/fourier/charts/WidthPlot.class
+SHA-256-Digest: 7IPZ4sMQXLF6l3l1pMgXYta54vE/Lpu8UWLq0uZasfU=
+
+Name: edu/colorado/phet/fourier/control/DiscreteControlPanel$EventList
+ ener.class
+SHA-256-Digest: EHyyp2avVMPGo6prQukVm/ZrlX0iysLkgHwafl81CC8=
+
+Name: edu/colorado/phet/fourier/MathStrings.class
+SHA-256-Digest: KLrkQ9QFhtdUhS2o8P+D851L6WRHNqQD9WDOebMRlSI=
+
+Name: edu/colorado/phet/common/phetcommon/model/CommandQueue.class
+SHA-256-Digest: 9ctwWWEwPkmCcmKk//Va69r9h6xjiS/9+sapFbHP0Ug=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PlayPaus
+ eButton$1.class
+SHA-256-Digest: 3d5qQF5MP3FtMHRRvg+C1flFIU4waHDVqaYdkuYArXg=
+
+Name: edu/colorado/phet/common/phetcommon/resources/PhetCommonResource
+ s.class
+SHA-256-Digest: 4Zkxjt9+zz0lrOA5MxnC7kSj3lutuTe5naodXe4HefY=
+
+Name: software-agreement.properties
+SHA-256-Digest: f5IQD0VOuBdR76bSyG9FnMvNaYiApyeQ3vc0D9GCVUM=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog$Develo
+ pmentTeamCredits.class
+SHA-256-Digest: djoNPAtwsXFilvxjx/6hDnpU0ISidh+r8TiUaQ3VkXw=
+
+Name: edu/umd/cs/piccolo/PComponent.class
+SHA-256-Digest: FJ2mt4G/mMThowaeihZXm6CozRL7iNGod5xq7ylVkYo=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og$ThisDownloadThreadListener.class
+SHA-256-Digest: oVc2ntmaPrJgi/nHU57yzdKNdvpS70ojoiYoYbclFJs=
+
+Name: edu/colorado/phet/fourier/view/AnimationCycleController$Animatio
+ nCycleEvent.class
+SHA-256-Digest: lAd3/8wOFcA5Rw+PtvvryqLqFTE0nJwJmmdXSWL87wY=
+
+Name: phetcommon/localization/phetcommon-strings_fi.properties
+SHA-256-Digest: B8A6r7i+Iky2H+iYOLAkjNNip6yPVIApCOgrrK2FJBg=
+
+Name: phetcommon/images/logos/ECSME-KSU-logos.jpg
+SHA-256-Digest: DRAqvCsBYspvUcMXjDOUC0UWRlb8AP6rOWoxzR1PGCU=
+
+Name: org/eclipse/swt/internal/ole/win32/package.html
+SHA-256-Digest: PgCm47F7GCKWMrxyYClEC7mV7czzmhx2xIFpZNW37p0=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog$ThirdP
+ artySoftwareCredits.class
+SHA-256-Digest: 3iiphHrATUBqVX1/FQuxaqMTVW6oIQZQX+YQA1o4b5Q=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PreferencesDialo
+ g.class
+SHA-256-Digest: hZyau1EHCUUoFQri3IYzspmjQmhA52viqvABUmCDRjI=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetGrap
+ hicListener.class
+SHA-256-Digest: 2iXeFzTZne5ahnnRt/TQit82GqVHLFwbrDSb8P/M3P4=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/NoUpdateDial
+ og$SimNoUpdateDialog.class
+SHA-256-Digest: ypGFHXUygiH4tYIpEs4hvox0VNW7khfOIQkzbac7bsM=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsMessage
+ .class
+SHA-256-Digest: yrYJeg9MrRhqtNbTT9+06N2nkiqc6iz/p8cBugNEZbU=
+
+Name: edu/colorado/phet/fourier/control/HarmonicColorsDialog$3.class
+SHA-256-Digest: 5G6URU4MuIXBiMD8+SxELIV8hmZOnRS93OHGOCevbLs=
+
+Name: edu/colorado/phet/fourier/view/tools/WavePacketPeriodTool.class
+SHA-256-Digest: vHpLmhmXWSAADwa5uI4/Yv0Ltw+qTZCUFfuLrICoHuk=
+
+Name: images/arrow-right.gif
+SHA-256-Digest: WlaN6RDdqFCDiaTXj5UZxDsmn/J2TD4ESOZW8uFXUXI=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ t.class
+SHA-256-Digest: 2LLgc+DYjCybcm20RFrawzf6+gjAJs3jZKVRzSsJXgs=
+
+Name: edu/colorado/phet/fourier/view/HarmonicsEquation.class
+SHA-256-Digest: EAHT73lr3jR4ooEbpG2pkb3q5e06OS81htKpygVwYa8=
+
+Name: edu/colorado/phet/common/phetcommon/updates/IVersionSkipper.clas
+ s
+SHA-256-Digest: FEhSvV56swq7GSre81ZvTEHTgOQFQtIQTHUjSZ+C+lk=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/PhetOptionPane$1.c
+ lass
+SHA-256-Digest: KKi86taGflARISsM2tUMfvDkJe1mZbji1PsoylT3+CA=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/HTMLGrap
+ hic.class
+SHA-256-Digest: sY708/mwD0AONcyY5MYYpIdyFCTMr2KFbnZUQlw4Jes=
+
+Name: fourier/localization/fourier-strings_el.properties
+SHA-256-Digest: M0yq1muElxlKbmZygfZNu0Aj/zHLYXqwttD3IHd6fLk=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d$TestModule$3$1.class
+SHA-256-Digest: 5zdVsY1Jm1OBJECRDJvA6l3zrJygLmSn/RU5sRd0Rzs=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$2.class
+SHA-256-Digest: 207l7LJpqbiqaz46mpVqcuckwpHkLve6hLaribeo4qI=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow$
+ AnimationComponent.class
+SHA-256-Digest: C6m8UrnNj5YRt9GadTdSmJ/GwTOg7r5ApuSlofCivG4=
+
+Name: fourier/localization/fourier-strings_et.properties
+SHA-256-Digest: NA4AcJ/3D4L2IKkG7w3UMlnyKu+/V1lO9QTownMwdGk=
+
+Name: edu/colorado/phet/fourier/view/tools/AbstractHarmonicMeasurement
+ Tool$MouseFocusListener.class
+SHA-256-Digest: TWPpKXe+8ts/GwiYXVtKftNfrLl3PBHtXHOao9Sawt0=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Defau
+ ltPaintStrategy.class
+SHA-256-Digest: UyB2MdFKdRV7kNxbCqCSWsrpUOfS0OwoTUE64+KpfHs=
+
+Name: edu/umd/cs/piccolo/PLayer.class
+SHA-256-Digest: 2+ftgWGVV0do5mbpZIW7cxSFkVKKJWQlqIrtKyM02E0=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow.
+ class
+SHA-256-Digest: vyPm41CKyXqOrNgQ5G96QWmx6IPSI0WBAxHI6k8kFTA=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetText
+ Graphic.class
+SHA-256-Digest: Dn3rk98xGnS6BuHG0oktHfpy7fp5dt0lwwTNWGJBs8g=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/ImageLoader$PhetRe
+ sourceLoader.class
+SHA-256-Digest: g5MR+OQcVTntZdnBhUvTlB5xUkWkBSVmc84UphYFv8o=
+
+Name: edu/colorado/phet/fourier/charts/ClosedPathPlot.class
+SHA-256-Digest: LTE2DGJ+l3UX+JoisJoIDGV6J4cnzz5W0nrTUPAB+uI=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$CancelButton$1.class
+SHA-256-Digest: 99GS3I0BuSPdhGIXIdg/cAL0bPklNE1yR5PxTqlEG0k=
+
+Name: edu/colorado/phet/common/charts/Range2D.class
+SHA-256-Digest: B8KfkkCrElpc7ImPtFEfbCILgYZDj7AUKVaMunmH9J4=
+
+Name: edu/colorado/phet/fourier/view/game/GameSumChart.class
+SHA-256-Digest: DxInWxHJvZzbVMmJ9g+inz2JhDGx041tlbx3PNY6lw4=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent.class
+SHA-256-Digest: Ti8XUpa56XHOepPIjbB6WKhMjMTHaOVnMxaOcRzUf7M=
+
+Name: phetcommon/localization/phetcommon-strings_ka.properties
+SHA-256-Digest: Vhaasxg4Vn0DaiJb/oL6l+rB6aRRNBqc6h19N8WPdlI=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$1
+ .class
+SHA-256-Digest: OyYQ9qrcHVl/GN/yFR+VwiYkhb02uPu6IaYDE4wVbq8=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CAmplitudesView.class
+SHA-256-Digest: 7GiIpfClfj9eX8bjY3Fr939wucoE9kjDe0jmEoOzwhQ=
+
+Name: edu/colorado/phet/fourier/control/sliders/WavePacketSpacingSlide
+ r.class
+SHA-256-Digest: Q95FeKhkjBee3Yd36RqrAxYG4RbNyok2AWg1ghZs7pI=
+
+Name: fourier/localization/fourier-strings_ja.properties
+SHA-256-Digest: 1EyugO9+VT+LtJpDTkrRDVzQhsXM+ixB+wyFMbSi2QQ=
+
+Name: edu/colorado/phet/fourier/charts/WavePacketKWidthPlot.class
+SHA-256-Digest: BZYAsdOeJnX8g6pBimX+ZrCQKvHmH+nRJ1oiTbSH148=
+
+Name: edu/colorado/phet/fourier/view/game/GameManager.class
+SHA-256-Digest: rcifi8AZb3k3V7PlSK88lqt6q5x/QTZycACxID+gjjs=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/CompositeKeyList
+ ener.class
+SHA-256-Digest: PIYhVSEsc8TgiEd4LcDDlM3JT7QBrpkxLTrUEsN/RdY=
+
+Name: phetcommon/localization/phetcommon-strings_ht.properties
+SHA-256-Digest: mKWydqK2VlSY59Pgz+zuhAFm9t/Lp91vAsjnpvPM+qo=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/StepBack
+ Button.class
+SHA-256-Digest: xIkkLgsMvPDpKvgl8s+K5ivQUa4jGk8V8Z8Ixmht6jE=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule$2.class
+SHA-256-Digest: A4n8Cn7hl4kL9N97VaYKDlbJYC8fHwQ2Kjv0Ynhowfk=
+
+Name: edu/colorado/phet/fourier/view/AmplitudeSlider$ClickZoneEventLis
+ tener.class
+SHA-256-Digest: y/Ix24nJilL8BnangjUA03h7WVjy4rNKtCoaEetHMe4=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesMenuIte
+ m.class
+SHA-256-Digest: fB+0EOKY+yttVRFRA/jJyDIJ6URwFFl/ILTrCwdOabo=
+
+Name: edu/colorado/phet/fourier/control/sliders/AbstractFourierSlider.
+ class
+SHA-256-Digest: IaH4uMIPPZ0XmR8Jojf8jzNqYzZh+1Ch5liOjr7kzt4=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetZo
+ omControl$ZoomEvent.class
+SHA-256-Digest: Y02bBpJkED6xoNR+q7zWW3rnXJEG4NVVDBppj8H5t+E=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$3.class
+SHA-256-Digest: Gg4oWQWZ1Nu4B5J2NHDM0vcNB7ulG4Fj+PIVrOYs1zg=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$LocalSaveLoadStrategy$1.class
+SHA-256-Digest: E+a713TcMVzDdQZcOstMNrEP/9LWMWsnuu88WbUs9pg=
+
+Name: edu/colorado/phet/fourier/event/SoundErrorListener.class
+SHA-256-Digest: y9yct9c9i8PJVDbfsVfI3gCuLGxWAnN3MSHfqIgm03o=
+
+Name: phetcommon/localization/phetcommon-strings_in.properties
+SHA-256-Digest: 568clLMbiTOesYERbHe/4jfVHgr+mFB4lym/fwCv9QM=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$TestClock.class
+SHA-256-Digest: 5SpskpWzMtTCPcfd4/CjAzxM5Xgp6kfUeOx2D0GEMQw=
+
+Name: piccolo-phet/images/zoomBackgroundVertical.png
+SHA-256-Digest: XxD8adcKkmQhYzgIug5IJzOYO4rSZvkA0lzkaFAxGpE=
+
+Name: edu/colorado/phet/common/phetcommon/view/ModulePanel$2.class
+SHA-256-Digest: WcXNlCf6UFOct+4T353JjNADrjQOD0wLUroxV4ERE14=
+
+Name: fourier/contrib-licenses/javaws-license.txt
+SHA-256-Digest: 2jQ/DGSn90EkCYXn4lKnIIpR8BXD2OTSiHjJY3FUUKE=
+
+Name: edu/umd/cs/piccolo/PCanvas$MouseEventInputSource.class
+SHA-256-Digest: Hsw8tPxHZIEhtbCJ5d7rnHBz3ZPvCdrsi0IXg4dq4V8=
+
+Name: edu/colorado/phet/common/phetcommon/util/MultiMap$MultiMapIterat
+ or.class
+SHA-256-Digest: KRv4oOzpisfI2M0mUG0cjuBENNbkX1oEoX9rBJzq6Kc=
+
+Name: edu/colorado/phet/common/charts/Axis$AxisTicks.class
+SHA-256-Digest: MYujfSNO5a1mGBT3MnzplE6qLgVwePSIwbR8y3OkfkA=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingCanvas.class
+SHA-256-Digest: xuCENREVUgQ5fqrFloUrWTwqtGljnGPa4PWDWX7miAw=
+
+Name: edu/colorado/phet/common/phetcommon/updates/SimAskMeLaterStrateg
+ y.class
+SHA-256-Digest: dCbTslKEsJTUfCL43jLzF5mxSoMbtSAUzLpvqhOHlsg=
+
+Name: edu/colorado/phet/common/phetcommon/util/AnnotationParser$Annota
+ tion.class
+SHA-256-Digest: GCLNkxwJ1Q2QYA5IdXo77dIaaVJv5RaQsBxT9Dt5JpA=
+
+Name: edu/colorado/phet/common/phetcommon/view/HelpPanel.class
+SHA-256-Digest: i2r6TaVzhlYSRzk6u4T4TYxP6zxzQ4sU8BKe+i7nsI8=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/DefaultI
+ conButton$1.class
+SHA-256-Digest: 6LY5Rezc+6dSVUvMGksFigztdEleRVAzx34Fo+dgJzk=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PJCFoc
+ usManager$MyComparator.class
+SHA-256-Digest: xrHns5SAmM/JMyaT3fOVGhXmH9hJ318+UgIZtTPUI8s=
+
+Name: edu/colorado/phet/common/phetcommon/view/HorizontalLayoutPanel.c
+ lass
+SHA-256-Digest: qbGPVUipzOZ+N8s3NfFOPZG30u2LmHqYKL9sFLurLlE=
+
+Name: phetcommon/localization/phetcommon-strings_pl.properties
+SHA-256-Digest: T00HQAVtl/PO2BHJAMDWmLNE9SI5MJaW0l2wlOrPFZM=
+
+Name: edu/colorado/phet/common/charts/Grid$1.class
+SHA-256-Digest: TdzPHiAHHC54UClG1e0ykWKY9FQjPTz+Itt3eu2+lxQ=
+
+Name: phetcommon/localization/phetcommon-strings_sl.properties
+SHA-256-Digest: ffo+aCN5FSuxiN0HhGmSoJqm6l9H3Bs3wXlACYBVNSQ=
+
+Name: edu/colorado/phet/common/phetcommon/application/PaintImmediateDi
+ alog$1.class
+SHA-256-Digest: dAIqARajUR4UaAIQcsNE7sWab58JvllKO6AbVZGvxpM=
+
+Name: edu/colorado/phet/common/phetcommon/view/ModulePanel$1.class
+SHA-256-Digest: n6bSibRAnV6xUF5zrVKlSM8PMOqCmiDMiFsYCamsH80=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAut
+ omaticUpdateDialog.class
+SHA-256-Digest: OOIAMMIY7sj83nbduNlJQrJfBvsiQT2MoiZhXBf7HbY=
+
+Name: fourier/credits.txt
+SHA-256-Digest: daJE+JGs/3uqcB8MCmC7d7MIMgiZoXm2SEDVPdzWZf4=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$2.class
+SHA-256-Digest: SfvnDGaQCLYfT4TQKE/L1bjUjfueoehGc1BNxjK2uMU=
+
+Name: edu/colorado/phet/common/phetcommon/util/DownloadThread$Download
+ Request.class
+SHA-256-Digest: iXdVza7kEbKUlyTuTNump5b/EzPmZbV9w3CLG5sAYd4=
+
+Name: edu/umd/cs/piccolo/PNode.class
+SHA-256-Digest: ycJoKCn5gd5Zr+iP0QbUng3l9UjahEjoAIlT5OV9Wrk=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/StackTraceDialog.cla
+ ss
+SHA-256-Digest: lXyPw9kmv+4syMp/razyUGMWBo/2QGhukm1kLpc4sXY=
+
+Name: edu/colorado/phet/common/phetcommon/updates/ManualUpdatesManager
+ $1.class
+SHA-256-Digest: OPk8okCAl8opNYKWJIh7DFLJ6VIcCHLI/NmC/stwOKc=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/PhetFileMenu$1.cla
+ ss
+SHA-256-Digest: 1Ao/iAU5v7HefV4mGEH2sqT2jL3oqUQ9qHF2OaO6bDA=
+
+Name: edu/colorado/phet/common/piccolophet/event/ButtonEventHandler$Bu
+ ttonEventListener.class
+SHA-256-Digest: W4qG8ZpbXZEt/svYjepNIUJFiK0+BfI39kTI7uXnRFQ=
+
+Name: edu/umd/cs/piccolo/PCanvas$MouseWheelInputSourceListener.class
+SHA-256-Digest: ycpXHhtuVEaHRrL0lN6eqHzxJLq7yVWGjeSw19QRu6s=
+
+Name: edu/colorado/phet/common/phetcommon/view/controls/ColorControl.c
+ lass
+SHA-256-Digest: 0W1cD7/SL8RvkolOkVDG7RNNc7bLoZ3tuc9lhiuSeUs=
+
+Name: phetcommon/localization/phetcommon-strings_ca.properties
+SHA-256-Digest: FbUXy2GCA0W8yw8Dw82cAGkEOPv3oMN2BJta4Avhg1Q=
+
+Name: edu/colorado/phet/fourier/control/FourierTitledPanel.class
+SHA-256-Digest: XDzApi4QeBaFQ6PwlLcwiPUYCjI1Z01KnIwF+k5Axqw=
+
+Name: edu/colorado/phet/common/charts/AbstractTicks.class
+SHA-256-Digest: g8Bkwv0riWnFwlzE4GfPPg+djb6vMo4ClyzTBemGWC0=
+
+Name: fourier/contrib-licenses/junit-cpl-v10.html
+SHA-256-Digest: VBPHjMKNW9U2vY0ocQkqptVyHer8+3YdZVKJ95YV8Ho=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu$CheckForS
+ imUpdateMenuItem$1.class
+SHA-256-Digest: jlZrBZq5Q+QRukbelpGNIlfSDmIcIQLS/Oszgq043fQ=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2.class
+SHA-256-Digest: TQiCl4QOEl31G8BWmxdW6AMK/ybqFW0Te4zd4bS61xc=
+
+Name: edu/umd/cs/piccolo/PCanvas.class
+SHA-256-Digest: FMAkRUgWP2Xh4d9+FU8Q/67MvbRm/hqSFNZvSz0MO6g=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CSumEquation.class
+SHA-256-Digest: l98OYI6780IeLpCAKSHk1SK0LLemjEDdATZC6EDnYPQ=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$1.class
+SHA-256-Digest: Sx3B1zuDloovZDgbo8lXq3HRaPt1wR4mbNpNb0LhTXk=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$WebStartSaveLoadStrategy.class
+SHA-256-Digest: ngZVClpJuwSN14K6l02DdubJLUZnRPXy6RqtyXUY1HQ=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule$1.class
+SHA-256-Digest: usGP0lpDjaY3uHypMAbXLE2+/yuw6J6BBEpUKoKgLjY=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsManager
+ $StatisticsManagerListener.class
+SHA-256-Digest: CHsZIcSzyYioGldtbnkiC5NdfKD788yRxreAtJ/8Ujs=
+
+Name: edu/colorado/phet/common/piccolophet/PhetRootPNode.class
+SHA-256-Digest: 1fe9EYRZpAT818tUqiILMgOKncFkkpwyqIX1kH+n0Yw=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel3.class
+SHA-256-Digest: g47O6CxYwcTGkahncfleuM2iGiuXJeUXtBxXzhf/oLc=
+
+Name: images/zoom/zoomInButtonPressed.png
+SHA-256-Digest: ewveYq/dq8N1gKr7M2e3lMztPq7P0TB1S5+yI61boUc=
+
+Name: edu/colorado/phet/common/piccolophet/PiccoloModule.class
+SHA-256-Digest: eMP/pdmu7TYuSj3Of6ozUvVdPieLwVWAZTUTsjaMzgo=
+
+Name: edu/colorado/phet/fourier/event/FourierDragHandler.class
+SHA-256-Digest: GM29qfYaoUEmGiR3Kw2HsHT+CrQjkYY+AKcjFQXo5As=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetExit.class
+SHA-256-Digest: 70UyrRdjx7rtTR6ox227HMJ/2AJkgzOvZ3ygfao+XCo=
+
+Name: phetcommon/localization/phetcommon-strings_zh_TW.properties
+SHA-256-Digest: AdTUHq6CNy6C8WefXrATGT2EeSie4naagFQuyM4H+dc=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$3.class
+SHA-256-Digest: OwpXtuj5cS4GANFeL841HXNnjYMP7wWayNruQMkkcyQ=
+
+Name: edu/colorado/phet/fourier/view/game/GameSumView.class
+SHA-256-Digest: UpmvKR1Kcj0VY8G4frpB5Ua13uHuyfU45R/KTsSx7GU=
+
+Name: edu/colorado/phet/common/piccolophet/help/AbstractHelpItem.class
+SHA-256-Digest: K3DKiYyW5uEAKFQlwBsZ5Y9ch9da+hhcia0sGLBo3B4=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ColorChooserFactory$
+ Listener.class
+SHA-256-Digest: 7YJqkibVdySYNHX8hpWVT31CQgzbLuCFRLDws2rN+M4=
+
+Name: edu/umd/cs/piccolo/nodes/PText.class
+SHA-256-Digest: z9PIhje4BaQotwDwbopZvnzHvKIkJwayIh1eKuYW1RU=
+
+Name: edu/colorado/phet/common/phetcommon/application/VersionInfoQuery
+ $InstallerResponse.class
+SHA-256-Digest: 2UDiaa3Wrkxd9vNH0eRfcm8+zk5hIZjp8j/by9m93XQ=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteSumChart.class
+SHA-256-Digest: Hn9wOO2one9yhWQHdzsOVffBaWXF6BoKgWlly4tJ3VU=
+
+Name: edu/colorado/phet/common/phetcommon/view/VerticalLayoutPanel.cla
+ ss
+SHA-256-Digest: mBDKp5b638aLqdNmG7O0EQsHeOwtAlWkq8Mq4USUpjk=
+
+Name: org/eclipse/swt/ole/win32/package.html
+SHA-256-Digest: BpyEH43qZ5080XkR1/uVoBM0bU1KB7aebuWUsbJFQOk=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PJCFoc
+ usManager.class
+SHA-256-Digest: fNoGmYaDXgUws5YmJYhR08PbamajNWMuYyt94huzg2w=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$SkipVersionButton.class
+SHA-256-Digest: 2x92P/sp3cwSSR8D8Cy+GQEjoKRiXQ/nfUPHGe4Y1zQ=
+
+Name: phetcommon/images/clock/Pause24.gif
+SHA-256-Digest: dCog/0h1vHCGgKVWwYrCNmOCc3LPvBno/EYwrI4WLwM=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsManager
+ $StatisticsThread.class
+SHA-256-Digest: ofQYwnnbMcL3ZTle6hk13lEzQpqpLRpmLyCV8ND511c=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/BufferedImageUtils
+ .class
+SHA-256-Digest: ZwkAGcTDyR/wh0RdKglEKv8yJPDRmOf//8/K4pDyU2g=
+
+Name: edu/colorado/phet/fourier/view/AnimationCycleController$Animatio
+ nCycleListener.class
+SHA-256-Digest: srD9QjqXWVjW1H2bWZan4e8mTzIKiubCnXzntwxc55g=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService$BrowserControl.class
+SHA-256-Digest: fEOxghaMeB6a687kTk+tn0RTkPyLVwJbLBFXdDUjeA8=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CSumView.class
+SHA-256-Digest: YLnXCAUy6wFb6HnJfyjGd+TzDBplK4nxV47612wh/P0=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tDialog$HTMLTagImageView.class
+SHA-256-Digest: GwbkAsQzCbeSqJM8Ee6MQAgn4GYAevHXO78Gm4W55c4=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/TimingStrategy$C
+ onstant.class
+SHA-256-Digest: QiTrF599calm8X0E6Q6XdbptS9FDVQIfLfFR8CsTSWw=
+
+Name: edu/colorado/phet/common/phetcommon/application/ApplicationConst
+ ructor.class
+SHA-256-Digest: 9KgCAO9emcKPVjUeT1qX95z12RftWuMJANlq8Ut4Hao=
+
+Name: fourier/localization/fourier-strings_sk.properties
+SHA-256-Digest: IYg21s/uZFIAvrc3X5HgHam2ap6aSyGupHlnTlavIns=
+
+Name: org/eclipse/swt/internal/SWTMessages.properties
+SHA-256-Digest: MpAOh/U3eRXlAV3Vn9n263BcJoP4cXV8pjqGr8/lSUo=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$ISaveLoadStrategy.class
+SHA-256-Digest: r8qbHs4/ziu71tP85JwwDc2kHb1alakGq8HbLwOGWpE=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule$3.class
+SHA-256-Digest: CffLmwwCwxB/fTpsjskGUDIvv8piNwXGfFCNcAjLKuw=
+
+Name: edu/colorado/phet/common/phetcommon/model/ModelElement.class
+SHA-256-Digest: aTMbMNfncynniBoFX2uVpvvLq/PJ+UkwYthFwv7eUaQ=
+
+Name: edu/colorado/phet/common/phetcommon/model/Resettable.class
+SHA-256-Digest: AnqsJYlTACPHVv8qkC5NkV1Eeq+oOkpOe6WsOBrWflI=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/ClockListener.cl
+ ass
+SHA-256-Digest: Cbfsg5W+4nHWHMpiXjA9fpl/OYuN0qjgKNSDs4Y0Y/E=
+
+Name: edu/colorado/phet/fourier/charts/WavePacketXWidthPlot.class
+SHA-256-Digest: PU4Zkg5NofPd4QJBCnAMZQByy4VknOa2MseEbZiNV4g=
+
+Name: edu/colorado/phet/common/charts/GridLineSet$1.class
+SHA-256-Digest: /W3B5kweqmzmqxoFXSjE1BvM0DZiTSfzlkliFvTi6qQ=
+
+Name: simulation.properties
+SHA-256-Digest: gjIDbsqACeL/vYUj/XtThoLL1HmeRzh78lmh5HnjAs8=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$1.class
+SHA-256-Digest: mlghCYpteNtbYFlmdMgkRARfvHRH7uEiaRJYWukcguQ=
+
+Name: edu/colorado/phet/common/charts/Chart$GridTicks.class
+SHA-256-Digest: /OoJWHLiRq9qfzkT3PcYyXR1WyJ+V/H+SX9cRVHaaYg=
+
+Name: edu/colorado/phet/fourier/model/FourierSeries.class
+SHA-256-Digest: U+bIwDXBWQdcOaRQuDbCi8QSMwvB3UjFW5VFkUHS1n8=
+
+Name: edu/colorado/phet/fourier/FourierConstants.class
+SHA-256-Digest: wCNf//2Yoafpe3LxUSL6lHR0XlJChkGnNVgKYJCBYUk=
+
+Name: phetcommon/localization/phetcommon-strings_ru.properties
+SHA-256-Digest: W5kMBkilGeRoDADTmUH50+TxsKecfojSfc3PFPLPskg=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule$4.class
+SHA-256-Digest: bjjDzBV/t7gjvb/5a4SK0eMJU2aJEnx/I/09ldS+SOs=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/NoUpdateDial
+ og.class
+SHA-256-Digest: zcgoXDickzdo7ewytnhnpkIXliel17CSTsntrbPJcKU=
+
+Name: fourier/localization/fourier-strings_am.properties
+SHA-256-Digest: 8zjyuZQSezCvjwUFSSJfx1l1VM5eclrvZ7vAyqigvdo=
+
+Name: edu/colorado/phet/common/piccolophet/event/ButtonEventHandler$Bu
+ ttonEventAdapter.class
+SHA-256-Digest: JhoboDtv3OA8pfo5LVflchLcK80iNs2G44z9NDvGC0A=
+
+Name: edu/colorado/phet/common/phetcommon/tests/TestPhetFrameWorkaroun
+ d$TestApplication.class
+SHA-256-Digest: ye0CH3HEpESGhAyiUYUHAHX+yKwkk9Bjd8Ck4Y7S3nA=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/StatisticsDetail
+ sDialog$1.class
+SHA-256-Digest: 0MwMVDQkHpW42NHj9hI4WkxbV6TfbTeJYxRzP6gbgQ8=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$3$5.class
+SHA-256-Digest: prZ7LQ504O0Za6Ci7PNzSKpdGHIjvG3VeFJHH86ouws=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$AskMeLaterButton.class
+SHA-256-Digest: KRKqCT1eeXxdusPWOtEHulWEV5/FnxLfZPnMfaSXQ3A=
+
+Name: edu/colorado/phet/common/piccolophet/PhetPCanvas$TransformStrate
+ gy.class
+SHA-256-Digest: SWJThJ5ZBwHa/VJiOXOzX3VlkfPOW3Pfz3KvGEy8tzs=
+
+Name: image002.gif
+SHA-256-Digest: r4jRfT23B0pCgWqE5nlSZyHiBOXWUQH9z3xRAhhR/gY=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane.class
+SHA-256-Digest: r2g5binLTCWbhGwWP0KWECttHOyKvcajv0uQHFOqDjI=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/ButtonIc
+ onSet.class
+SHA-256-Digest: Cq6fssGytLvq1RcDcWl5g8aHzUUYYDvXebiWiTUPm6Q=
+
+Name: fourier/localization/fourier-strings_pt_BR.properties
+SHA-256-Digest: rBo61sQln64sErSPLEPXR8gvCciqxeE1ylBhmQLcaIE=
+
+Name: edu/colorado/phet/common/phetcommon/util/JavaVersion.class
+SHA-256-Digest: L86IwgIAyCJ7rBM56qE546u0b9gDYs4/u/p5F2mymHg=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$14.class
+SHA-256-Digest: sD5UNkle4qMSzwfkGzdxGunDe2MlFHHaZPjSqtZr2dk=
+
+Name: edu/umd/cs/piccolo/util/PUtil$1.class
+SHA-256-Digest: +ww1dqEa1lZl+0UTPw5Zl0Q+d39eX7T/gblo8d7eLwQ=
+
+Name: edu/colorado/phet/common/phetcommon/util/function/VoidFunction0.
+ class
+SHA-256-Digest: CGsRY2G1u0LKhB/HMaFhwA9lD2GA+oaPB7IijlWmkJM=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog$Transl
+ ationCredits.class
+SHA-256-Digest: BQymcQqy6MuSMdgLT0tW98skCw6IEdXk9DW51VhXBxw=
+
+Name: edu/umd/cs/piccolo/util/PDimension.class
+SHA-256-Digest: 6syEqcR8ifn/jaTGIPns03KFbJEd+KPwPQy/dyuyMVY=
+
+Name: junit/runner/excluded.properties
+SHA-256-Digest: verdaJRECtGODbiJRACXl6+z9fn0vIWVrD8LbWFAd2o=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/ControlPanelProper
+ tiesMenuItem$1.class
+SHA-256-Digest: KyPoaDPWDheScoDXSYdg5IrCbWJC0k3UwpD/uguE68g=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesDialog$
+ 4.class
+SHA-256-Digest: 40bvW6XFNvJADOSH9lHOiJFOGbFa07tc/HgR0dbj9z8=
+
+Name: stylesheet.css
+SHA-256-Digest: kSYEkgtkl3JszkeRhtfmTTCDtpjRvDJwh0Ej0YaETII=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpPane$Test
+ Module$2.class
+SHA-256-Digest: dFNvDDmZSKBWryeeIBORSjMxeAjM3Ucb2XKgFD7gfEo=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/PhetPPath.class
+SHA-256-Digest: rBT6LQNpHiy5BWMrPvHUAGxPufDq2/FHVlr4FGnJP1g=
+
+Name: edu/colorado/phet/fourier/sound/FourierSoundPlayer.class
+SHA-256-Digest: kpts87w15HjPMZh/3M+qOt4kTp2h2tHO5CRN13axhJY=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule.class
+SHA-256-Digest: 4nUeBfXx3dOyvjyn6aAzGRsphAIdE1dHznmqQLkFlI8=
+
+Name: edu/umd/cs/piccolo/nodes/PPath.class
+SHA-256-Digest: dzxgJkTfmRezE4rfOlqyTN8miyOSPZ8CwkGhr2qBHtY=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/IClock.class
+SHA-256-Digest: r1ylworZJZ8zaTajU1vnIjaXbXjpW8PwkT7u4Yz30ig=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Mouse
+ Processor$1.class
+SHA-256-Digest: 5FJZ1VxS79M0gNO3nQCEppG769WTNaue3FZ15FJk/98=
+
+Name: edu/colorado/phet/fourier/charts/WaveformChart.class
+SHA-256-Digest: CmQGQJEbR5Nq7b6En0458mn3lSWjDaXI6VByLFTkmWg=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/ControlPanelProper
+ tiesDialog.class
+SHA-256-Digest: m/5B4F/z+7kAThqd4mRBv4fpsSrqHPwprbUmDKZFOYs=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/Composit
+ ePhetGraphic.class
+SHA-256-Digest: ISePGrtVgSqgcDE9VPUcAYaqvVyGj9aJ2I7fH6mJBxo=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PlayPaus
+ eButton$Listener.class
+SHA-256-Digest: 2BWXT0DOozrXn4CvviGmVVKfQLtGHkH1/llXdOxyGOM=
+
+Name: edu/umd/cs/piccolo/PInputManager.class
+SHA-256-Digest: xzW99isib7joI7bfc5M7SECZ9WLTfaDUA2L09X/0a+I=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$AbstractTabN
+ ode.class
+SHA-256-Digest: GbowATzwfmHRahMo7tXnesUmm0o6+RBnwJedPI3+80g=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CAmplitudesChart.class
+SHA-256-Digest: r+yNetw9GHrmYfi2EMa0tGNfIiL6gFP9yZ99aZQKG8Q=
+
+Name: edu/colorado/phet/common/phetcommon/updates/ManualUpdatesManager
+ $2.class
+SHA-256-Digest: PV2x8U7LM7fCex4EFWakynn/pBf9qCyj5lVqx5eo6dM=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/PhetFont.class
+SHA-256-Digest: wZfTfrRQpLp7sjKf8GMtDgTQcgYc3Mw8BArkKd3QjsU=
+
+Name: piccolo-phet/images/button-template_pressed.png
+SHA-256-Digest: YToZrzd4YvBhzhpj+nd/iZVT6H9SftQdFYYzAh+7FLs=
+
+Name: piccolo-phet/images/lightBulbGlassMask.png
+SHA-256-Digest: elM4XaolRBhfCI4CAmYr2HXN4O9X311jwGN5uYVY+aM=
+
+Name: fourier/localization/fourier-strings_fr.properties
+SHA-256-Digest: iw3hGqjw0fbIwPizO7Z6Ytc1PNswk8kylL7LZ0gCHbQ=
+
+Name: edu/colorado/phet/common/phetcommon/util/DownloadThread.class
+SHA-256-Digest: KBWc0dRXeJ6GqzFdEiyfymTwp1MyZFLPkY7ZxDC+6j8=
+
+Name: edu/umd/cs/piccolo/util/PAffineTransform.class
+SHA-256-Digest: EZgqGOf62ps4pd9DFYC6R18xTEL32Al95JNSdroOesA=
+
+Name: piccolo-phet/images/battery.png
+SHA-256-Digest: 6r3CjNd9hxRVqZL5c1RWeDyVLWARIJfrlZK19PphA1E=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og$ThisDownloadThreadListener$1.class
+SHA-256-Digest: xK1UKIOX3mHJ+rkIu7SiocLP+JajrmDEQOB694My5Vg=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame$3.class
+SHA-256-Digest: yJLQmKwEeNZPApiscAoSC9LoMXAwTPh7ebOEujaOO80=
+
+Name: edu/colorado/phet/fourier/control/D2CControlPanel.class
+SHA-256-Digest: PT+zY3iNap3Vu+LoIyMX7Okm0IxzG3bPiqs2oFhZeQ0=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloC
+ lockControlPanel$1.class
+SHA-256-Digest: WFgsfPsz4Ck/iITFVc0f5LUw0eP7uLsQaIvWUnoIdu8=
+
+Name: fourier/localization/fourier-strings_hr.properties
+SHA-256-Digest: o9Y9QK7dXmfCqHH7IfdFWvHETLrIAMEBUrkuF+y3RQk=
+
+Name: edu/colorado/phet/common/phetcommon/view/HelpPanel$1.class
+SHA-256-Digest: u0oYQKdya37cy5gzmYJvHgYF0l1UUXdx0WRhwxjzijE=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PrivacyPreferenc
+ esPanel$DescriptionPane$1.class
+SHA-256-Digest: kS/OioodQyNfGRNGIn362swvpIUSThE+anJcDEHGu1w=
+
+Name: javax/jnlp/ClipboardService.class
+SHA-256-Digest: lu4QB/rflGiQMdWp8N3oEMpReyGvbQvswiXoYrneBDM=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesMenuIte
+ m$2.class
+SHA-256-Digest: X4vZj2wI6H/v0qy444kSLU/D2F8Vr6poq6NVpgOzJgk=
+
+Name: edu/colorado/phet/common/phetcommon/application/KSUCreditsWindow
+ $1.class
+SHA-256-Digest: T4LJ6mw0I1IFXZ5ybDrlafJCx0WIkl2F4aSQKPyMYqY=
+
+Name: edu/umd/cs/piccolo/activities/PActivity.class
+SHA-256-Digest: QfcKl8+7QqMAxeMMjzsLpkHJJZSQwa0UgR0/mP+1cRU=
+
+Name: edu/colorado/phet/common/phetcommon/view/ClockControlPanel$2.cla
+ ss
+SHA-256-Digest: 8+to65QcC9kb6vcyssMIpFCu28R/z9chbO4+IvJ/XYY=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/StackTraceDialog$1.c
+ lass
+SHA-256-Digest: Enew/PQihFf40s4tzUCP0jZbIrbc3Wydmxg6+m7eQ3M=
+
+Name: edu/umd/cs/piccolo/activities/PActivity$PActivityDelegate.class
+SHA-256-Digest: QTteFBmZmq/LFm0p036X9GZNcY2WnXNT/jFGDL9UF9w=
+
+Name: edu/colorado/phet/fourier/view/game/GameManager$GameConfiguratio
+ n.class
+SHA-256-Digest: ahtMxoDp8UWYPtDM2x4AxDiE465Ydng3QefdkcZDFTA=
+
+Name: edu/colorado/phet/fourier/persistence/FourierConfig.class
+SHA-256-Digest: RfGlYUjDLhBvYCcvalwv+OeD/I+lVSzLpiXNv9ei+wg=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$5.class
+SHA-256-Digest: 7TN50WODXra4YtucPD5BwIT5EkIlL/Blrj6YQd+CMM4=
+
+Name: image001.gif
+SHA-256-Digest: lNFlqYQ1nXyVNjJkYYGdxRl6wtIa8exU03+pC88LkaI=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/TimingStrategy.c
+ lass
+SHA-256-Digest: +wGeIrsYGPbHmfrKjL4YEyYg9inz1RNPYftTIMWZJGI=
+
+Name: junit/swingui/icons/failure.gif
+SHA-256-Digest: 5LlImqzJ8UMXuWB9eMV/H70myBctMO+RogUdVAEGXvs=
+
+Name: edu/colorado/phet/common/charts/Chart.class
+SHA-256-Digest: BPXj3cQexCLUqYWmkZQNb1EFMWqm4+93Db73VlFR1ZA=
+
+Name: phetcommon/images/clock/StepForward24.gif
+SHA-256-Digest: xcWLwf73Fu2QdR4fi1N4y/KbQm96/arAUbAp56kYk9I=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$5.class
+SHA-256-Digest: x8TRZt0j+zqe5Wxs0XlkXX4GwGUQcT7jFVMSl54AZgI=
+
+Name: piccolo-phet/images/zoomInButton.png
+SHA-256-Digest: guoMjiNgkRPVdfE1NQZf/24VFNC5nNo5SUyAOdzaxjA=
+
+Name: fourier/localization/fourier-strings_zh_CN.properties
+SHA-256-Digest: EQHxdCXYUohc2mkOhX6MpONjRY0ZPd6TTXb4+HNUq0I=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingMouseEvent.class
+SHA-256-Digest: +TUhFO06PJyWn6Cxb0cGG9HeJjD0wsDbMaY2e4PbhLM=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/StepButt
+ on.class
+SHA-256-Digest: OuvFAAmdUCc7B3SQNUDPObKIMPDWmmmtmL6PT1nMPoA=
+
+Name: javax/jnlp/BasicService.class
+SHA-256-Digest: 9BYyQkf7VaDiol1l+S81EUrFNJUUKN08gMacrHw3FFo=
+
+Name: edu/colorado/phet/common/phetcommon/application/PaintImmediateDi
+ alog$PaintImmediateTimer.class
+SHA-256-Digest: RCtLU/m/LToV3HyjdFqN9yu0UNzZYTYzHxo9SSq/lUU=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/HTMLUtils$Interact
+ iveHTMLPane$1.class
+SHA-256-Digest: ER0zhK/V98NtpUAaa4RxI0H8Y6kMepgoMLBLBMkSzsc=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/XMLUtils.class
+SHA-256-Digest: 1dVLfsUU1Ery825JdoOTKq2uE0Vx50VHzgmZ3T/I1pg=
+
+Name: junit/swingui/icons/hierarchy.gif
+SHA-256-Digest: yxjCuPX35q5vepdYaz2q7hm9eMZUgHYzgfUI0wgdIQw=
+
+Name: fourier/localization/fourier-strings_tr.properties
+SHA-256-Digest: usQf23dSdnJTGagJa/RBV9jPgdo8ozTyfRinMo/dlI4=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/UpdatesPreferenc
+ esPanel$2.class
+SHA-256-Digest: EAyps2hmFes9vuBXbIYE08E7Rg3fTSLBJiitSZpA8QQ=
+
+Name: edu/colorado/phet/fourier/persistence/FourierConfig$D2CConfig.cl
+ ass
+SHA-256-Digest: ZPqJPrGRc7NvAlBy+2fcINFMo1aJXALPE3nONtnQ22Q=
+
+Name: phetcommon/localization/phetcommon-strings_zh_CN.properties
+SHA-256-Digest: cP10f/2oBDr3PAiaovEQX5gDcSWpYyMgfLF8PYeMBwE=
+
+Name: piccolo-phet/images/button-template.png
+SHA-256-Digest: s+vQd3m24A3SASLyjaNPrPVnzyKgdZQRCTX+SD/0U+8=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$UpdateButton.class
+SHA-256-Digest: ZMv7rITGsqESDpc+7qYbfIj3PtLEdtNQDY0aDX2wPt4=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/DefaultI
+ conButton.class
+SHA-256-Digest: wJwLAQsaI0Z9m9SBNjyO3H5S9/3hZ2XxdYuSmaF0MJM=
+
+Name: edu/colorado/phet/fourier/control/sliders/WavePacketXWidthSlider
+ .class
+SHA-256-Digest: RL/zxCpWdyH0LgUiGU9m884POFl8wregnhUPxtcmD4o=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Chang
+ eListener.class
+SHA-256-Digest: qKz3pdRJ28nJxprw/ENyMjsOkWv3511MDz9IMSIIEnM=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Mouse
+ Processor.class
+SHA-256-Digest: u2kJFIZIw33h8BD/x9A+56uHQLgE7bSaU22gEOnuxkM=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel$BackgroundNode.class
+SHA-256-Digest: xDbNelrWqINCCLuJcFTHjmT8hkh2RuBvjxiDLx1xT/k=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$JARL
+ auncherGUI$2.class
+SHA-256-Digest: QCFB+H+jVXupEFYdaGO7dCN+fiWE86MJfz4f9QTtuqE=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu$CheckForS
+ imUpdateMenuItem.class
+SHA-256-Digest: VbzSOj8TAhxOVGtu7GAJCtg1lPptRuz5TfSzsYrOxZ4=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsManager
+ .class
+SHA-256-Digest: L9J0LCkYtX0ZItbHXvF4GZhruX8if+Sf4sRB+I15/A0=
+
+Name: edu/colorado/phet/fourier/enums/Domain.class
+SHA-256-Digest: aWQsITbYtptz5HHo1RQcwH4eo9YQ89Xp//tBQ5O3IbM=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/RewindBu
+ tton.class
+SHA-256-Digest: pWL9zfFELXc8dwe6WFcaPMvOFctWd+a1MfPMn6GeWHo=
+
+Name: phetcommon/localization/phetcommon-strings_sq.properties
+SHA-256-Digest: MMz/MYxJOFAUku2PVyrh/Sn1NSrCGuQq0BHVu36L8rw=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog$1.clas
+ s
+SHA-256-Digest: 495fwA38irQaZtTYAovRw1nfol+cNBDlhwnSoPgJ5fM=
+
+Name: edu/colorado/phet/common/phetcommon/application/SessionCounter$S
+ essionCountsFile.class
+SHA-256-Digest: Ai+JogRNJ+aFMUIQvBU0CjUHy85+a4B27oNgf+7GJjE=
+
+Name: fourier/localization/fourier-strings_tk.properties
+SHA-256-Digest: t3hIMtDOlIhDMeUe6chURpxlGJb+W2KDCPqvkBtONg4=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel$2.class
+SHA-256-Digest: WOnt8Y9W1zUaiks9iohow/vlwAUJtIq0MIyQSzLLIaA=
+
+Name: phetcommon/localization/phetcommon-strings_pt.properties
+SHA-256-Digest: nNf8JOmJAosL6xgm4mZv/tIcT91KD885srlpFyDt/4U=
+
+Name: edu/umd/cs/piccolo/util/PDebug.class
+SHA-256-Digest: fBI/AP2ju+a1jFELcCHwveb7SC5KooeNzE5LSwvvs3M=
+
+Name: piccolo-phet/images/lightBulbBase.png
+SHA-256-Digest: BTf+Z9VB189wmAzQC3CclklUFgsf9Pc2DnyHfpsrrXo=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Scale
+ dComponentLayout.class
+SHA-256-Digest: 3erUxoCFYgGx43w4weED1038lGWd9Yl1/0uyVHiJC4s=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$TestModule.class
+SHA-256-Digest: aEdZkZ9eYwZd8nq5FH6L4HiTIlX67ILZ9H0IgFbQ058=
+
+Name: edu/colorado/phet/fourier/view/AnimationCycleController.class
+SHA-256-Digest: ZSkE03ENk33WIGWAFOdmNOh06vB4jYiQlRAQmsKqSe8=
+
+Name: edu/colorado/phet/fourier/control/HarmonicColorsDialog$2.class
+SHA-256-Digest: /7V+XTgPs2Dhhup6w2k/tksR3ZxQWd7Zf0qZDt0G0ds=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager$AcceptanceDialog.class
+SHA-256-Digest: IrA3QTd/z695ynwRx1Re6BeUdggX05Jv69LghQczOWY=
+
+Name: phetcommon/localization/phetcommon-strings_pt_BR.properties
+SHA-256-Digest: IhUVc3LKgqUiYZKsYj7Q7dRChKARLuXYJshI+K0r0WI=
+
+Name: phetcommon/localization/phetcommon-strings_es_CO.properties
+SHA-256-Digest: tP+xytn8ouz2UPYNJ7jq5Cot1pDAN2H3KtbXvo6AEVk=
+
+Name: fourier/images/soundMin.png
+SHA-256-Digest: /YCF8sBePr1GGGJicNL4OGDfqiyFhBr4mvLQmVQSSZc=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ColorChooserFactory$
+ 3.class
+SHA-256-Digest: uOIwRph0RQzc7EcHSWbycDOPqGK+ArVM7xPPQAajE4k=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$MoreButton.class
+SHA-256-Digest: LELynsp1AKRI7a6yYT2f6U8cQR8xInLJv+UQre3hkbE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAbstractU
+ pdateDialog$AskMeLaterButton$1.class
+SHA-256-Digest: 1JQ2yWF6D2tWNj/jeprW1vG9el/QqE424r2T+HN5BJE=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog$Intera
+ ctiveHTMLPane$1.class
+SHA-256-Digest: 9nvcPQoZEQSOnibR0NHEWDKzqGXlF/RDTEEpEQ7oY2w=
+
+Name: edu/colorado/phet/fourier/module/GameModule$4.class
+SHA-256-Digest: BjJyi1LXGvNMvZhggKd+my1tx4VFCceUUA98idQv1B0=
+
+Name: piccolo-phet/images/zoomOutButtonPressed.png
+SHA-256-Digest: 9QRPEIUYSWHx2qGMimzPjyVPgFCO85w5KHFjCmfjML8=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow$
+ ImageComponent.class
+SHA-256-Digest: 7OW4C2An2PSp0haWCS5uTu9/LDPZgpGvHdwnupQYh0Y=
+
+Name: edu/colorado/phet/common/phetcommon/util/JavaVersion$1.class
+SHA-256-Digest: zxnGk/n4aKV+xldNtwfh4v78jU7My28emh5eP1uY220=
+
+Name: edu/colorado/phet/common/phetcommon/updates/InstallerAskMeLaterS
+ trategy.class
+SHA-256-Digest: mFuiavv1J/rTcZRfGCQoa4R7wNahn+3mMKErQD+/PEA=
+
+Name: edu/colorado/phet/common/piccolophet/help/AbstractHelpItem$IFoll
+ ower.class
+SHA-256-Digest: xeLnqzmfuHDlE2Qk6N2VuaQ04dHVtiFaQOFAIDrToGE=
+
+Name: edu/umd/cs/piccolo/PNode$PSceneGraphDelegate.class
+SHA-256-Digest: Ur9EPUmIAWBN7ny8kOtu9Jc+u+vBCl/XyHwXoqL1LZk=
+
+Name: edu/umd/cs/piccolo/activities/PActivityScheduler$1.class
+SHA-256-Digest: PNWS19Kz+SNbEYV6jTF7eL6aaV/qM+r6Ukgu4bTZnJs=
+
+Name: edu/colorado/phet/common/phetcommon/application/VersionInfoQuery
+ $VersionInfoQueryException.class
+SHA-256-Digest: mVFVfBq1V5o6v69vScmt5l/1orOCODxxpGpj7V5YCrU=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: ikuCettm0EwzVaaF77ncuwqPUwp3CvuG3ELNukahrRc=
+
+Name: edu/colorado/phet/fourier/enums/FourierEnum.class
+SHA-256-Digest: i93JgX5Zsebb7goKl5KS8A2W3xOgRM3ZXCZXy/ue/0U=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Chang
+ eEvent.class
+SHA-256-Digest: rGIFzuCi1eoQfqIREFf7hGepxn4NOI5929tMVpUfqck=
+
+Name: edu/colorado/phet/common/piccolophet/help/AbstractHelpItem$Embed
+ dedJComponentFollower.class
+SHA-256-Digest: GNTauOo8dK8SEhcbMwru8/e+63VG6JNI7opshXwSwlw=
+
+Name: edu/colorado/phet/fourier/module/D2CModule$1.class
+SHA-256-Digest: A2oJ+ONnXnmU0G2WwrZ+T+4gHL2AoSk+m+tC/EE1CjE=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/StatisticsDetail
+ sDialog.class
+SHA-256-Digest: TwD3hZ9exGYkdmAilvknY7OBteNSpqCsQF1/+XWHjPY=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteSumView$1.class
+SHA-256-Digest: Z/x3LYIbAsmdjVEK1wGYm2Ozcap+/dU5Ze6Sv/ViH00=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$JARL
+ auncherGUI$3.class
+SHA-256-Digest: TOGpDfDmDq3OP5ZzH+0pGFOoPYBGI3OO1vrBzzGYE7o=
+
+Name: javax/jnlp/DownloadService.class
+SHA-256-Digest: P/UjmYKIfdW7Ywu1rnMk9gqK+OTxX/JoaVwPEjMBnt4=
+
+Name: phetcommon/localization/phetcommon-strings_et.properties
+SHA-256-Digest: n4DxBQFhRqhjR4LPE3Yj+NuIDNBvOwC8ftjYd6lTa3k=
+
+Name: fourier/localization/fourier-strings_da.properties
+SHA-256-Digest: KvFAcAy/YwZYhv142oF4skHW9nt9cv+D5k47bUpKOA0=
+
+Name: phetcommon/localization/phetcommon-strings_it.properties
+SHA-256-Digest: +Vtal3sKOeTvNElrBLdxcobGBSDzRdxpuW38LxsuJCA=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og.class
+SHA-256-Digest: r2gcEO4+VSvQiyBNorQIaKDa6pJGqm3N8cBWPVPYEMI=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$AskMeLaterButton$1.class
+SHA-256-Digest: RDsV6Ayds6H9KSSKGIu/SFOkAzSy0/Fx8qC6LWHC93E=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$EventListener.class
+SHA-256-Digest: EIitMw1RSg7/Nh4YK6XcgRXqIEYUtnO1QyF/UHofp90=
+
+Name: fourier/localization/fourier-strings_in.properties
+SHA-256-Digest: JbIYr5TuNnnvLoAfyIpPzcIVq/Rj4onRLPH44fppoXE=
+
+Name: edu/colorado/phet/fourier/control/sliders/WavePacketKWidthSlider
+ .class
+SHA-256-Digest: 37EF9b99zyIP/DaWsRMYpeRnFJp/JaC+iARjqHSqQPg=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Paint
+ Strategy.class
+SHA-256-Digest: erizFofIU74CSMSljbX9jFE2CZBYEktb6D14D7M8Xig=
+
+Name: edu/umd/cs/piccolo/event/PInputEventFilter.class
+SHA-256-Digest: kDNUvJKQFbtITZF0B8WqSfaEB+lpS0jWIHRX1DyPuqM=
+
+Name: edu/colorado/phet/common/phetcommon/servicemanager/LocalBasicSer
+ vice.class
+SHA-256-Digest: etKfoew7ox0hoZp2nfKt4AaedccQYRINuyr+HNm97Ro=
+
+Name: fourier/localization/fourier-strings_mn.properties
+SHA-256-Digest: XTlqvcQ3xVHCn8jd2GZ7T10eRwqL814cyPcemduReAg=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$4.class
+SHA-256-Digest: teMNswMAw7WMuDoBwvqLZKTwaf/B/thT9EmzAnw4tvQ=
+
+Name: edu/colorado/phet/common/phetcommon/util/AbstractPropertiesFile.
+ class
+SHA-256-Digest: /NFfaKlyOo5Lf8MO9zvbQL8kJXyhBB3PV7kHnmsyx9s=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplicationL
+ auncher.class
+SHA-256-Digest: tRmOWOicqe6dDVDeBatiJ4SqjfFvVBhSJ2TTmeQQhck=
+
+Name: edu/colorado/phet/common/phetcommon/files/PhetInstallation.class
+SHA-256-Digest: 6vPCdFCJpAMTdIODNNwzwa+vyQvdp7pnoT2ntrbSS74=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/Abstract
+ MediaButton$2.class
+SHA-256-Digest: N26AarHjQnHNEcaHVVoueoIHxnAKGeTIdIOCPxAF3lw=
+
+Name: javax/jnlp/PersistenceService.class
+SHA-256-Digest: VqY+jxeASj7O1P/aAeTdriK+cclvUHFIPUOdjS0Z7Gw=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/UpdatesPreferenc
+ esPanel.class
+SHA-256-Digest: /JOSxSl4TPjlg7+6ZnsyU2AVVPS5ZeHdUlEcGzRlr7c=
+
+Name: edu/umd/cs/piccolo/util/PBounds.class
+SHA-256-Digest: BAcG+3blKIFh1MIdVV9K658a2luq3sMBRF0iHNN90j8=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/PhetFileMenu.class
+SHA-256-Digest: wIklVdtkEZmJseTCEza/IH0MjynaXlgXIX1CaiHeoWY=
+
+Name: version.txt
+SHA-256-Digest: plEcNYIB3DHCBMYC1WtG1crzfip368x787FYL2+Njf0=
+
+Name: fourier/localization/fourier-strings_bg.properties
+SHA-256-Digest: mW8xnm/zd6PNmh5G5DOw9Ofg285enjo08vetC2mRidA=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$TabBase.clas
+ s
+SHA-256-Digest: +aoeedzKUKygQR3z0gruVwLb1rTo9NYP2DDLEA/MDlM=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$HTMLTabNode.
+ class
+SHA-256-Digest: dh5F+38kUBG1Iy2nlCfQN+gK7B+3ThXSG1Qx45R2RTY=
+
+Name: edu/colorado/phet/common/piccolophet/help/GlassPaneCanvas$1.clas
+ s
+SHA-256-Digest: 4cg2qtS/ENuJF0VeyMwBMptDQsBACpVxtac0gr0S1rw=
+
+Name: edu/colorado/phet/common/phetcommon/application/Module.class
+SHA-256-Digest: 5xTOvY0DWTB4Rk1vj5ZGrVHG5ZVRglWnI8PKqN4rDOs=
+
+Name: edu/colorado/phet/common/piccolophet/PhetPCanvas$ConstantTransfo
+ rmStrategy.class
+SHA-256-Digest: W31WgdjGceV1ApEQcHfUtyPoE6kpuZyZiWDLx9k6RBM=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ErrorDialog$1.class
+SHA-256-Digest: 4HBE+wQAbipIyRa4jjElirBjR3PGs+71GG5Ju+pkf4E=
+
+Name: jar-launcher.properties
+SHA-256-Digest: m7dU2ERbQALHkgIuLcH/G69iHq6X8RSTZIvkQ3TkoCE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/SimUpdater.class
+SHA-256-Digest: bVXLo0EeEuw8KvNaFFdZ0ZG9bxErtNz39AKf6KMDz9o=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplicationC
+ onfig.class
+SHA-256-Digest: WSQG5ozpomtlqzs7YzBXgOR+WiOVRYbpJ2uBkATkI8g=
+
+Name: edu/umd/cs/piccolo/PCamera.class
+SHA-256-Digest: gs12iaqCPzeWqvbia0SUTGclxcrfhl4vayvFDJeGO40=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/DoubleGeneralPath.
+ class
+SHA-256-Digest: Zidjs8S5jB3sq95ImpcFWx/um/KzqrujuvfyEE43hyw=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponentManager.class
+SHA-256-Digest: V0QxWCppwloknVHfa+KrTl3sIAbUCAIfM5UN5KZwdNM=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteAmplitudesView$E
+ ventPropagator.class
+SHA-256-Digest: /rUo2xqkP4smBoKPv4eGJeSDaaVsZ7UcrjtIKQF05EE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerMan
+ ualUpdateDialog.class
+SHA-256-Digest: WwdZgSrwkq/52GzQjUHOmJCQdcTWQqMszG96q4TFICQ=
+
+Name: edu/umd/cs/piccolo/util/PObjectOutputStream.class
+SHA-256-Digest: DlFcrghaad6oZnrYer92u84wERZm3YWa3S7YOfL9AWo=
+
+Name: edu/colorado/phet/common/phetcommon/util/IProguardKeepClass.clas
+ s
+SHA-256-Digest: dCarf0HDqWJBHO/mL43VGUtE/BtEGdbGLVs0kP/cAqM=
+
+Name: edu/umd/cs/piccolo/util/PUtil$2.class
+SHA-256-Digest: f/hGzWQ7IgvWJGisiYPnxURKzAllxnpp8zqaNF0ChzI=
+
+Name: edu/colorado/phet/common/charts/LabelTable.class
+SHA-256-Digest: l+Vw8Fk5UufzkhG0up2KTkLYItO9rbgyBLTkvBTi374=
+
+Name: images/zoom/zoomBackgroundHorizontal.png
+SHA-256-Digest: kOixY8tcbFYXOhz1I1q4w6CWjNCfAkqEuaQgv6dv+6U=
+
+Name: edu/colorado/phet/fourier/view/AmplitudeSlider$TextFieldEventLis
+ tener.class
+SHA-256-Digest: xwUXTKCFeaOEIhVc8htjP2gMmhImfM38BvuO7gXUE6M=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingMouseMotionEvent.class
+SHA-256-Digest: yA21ZoZjIKiJmySqL3vNihagVdYRfIGggoEIHwkWiu4=
+
+Name: phetcommon/localization/phetcommon-strings_hu.properties
+SHA-256-Digest: k1RPoiw/AqVjqvMsXsNfs+uNY7X9BkVNscn5AlrRYo0=
+
+Name: edu/umd/cs/piccolox/pswing/PSwingMouseWheelEvent.class
+SHA-256-Digest: +W+mCnBtb4DyRz1kiDYwYdBVrLH3u4a6VvvpdC/l9dQ=
+
+Name: org/eclipse/swt/program/package.html
+SHA-256-Digest: VOT8ILRAA/GajAf706rO21FjtUle7YmFq1Pw5Lqzypc=
+
+Name: edu/colorado/phet/common/phetcommon/util/CommandLineUtils.class
+SHA-256-Digest: nr/bs/LvrtOU9Q9YRY/HxIOkIDWn1xcTQA74OMKdHgI=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og$ThisDownloadThreadListener$2.class
+SHA-256-Digest: A7UNXj5fjF3Re++kvygtOJ5rZIb3CjzikuN+BqCWcX0=
+
+Name: edu/colorado/phet/common/piccolophet/PiccoloPhetApplication.clas
+ s
+SHA-256-Digest: zFyHpgVHsCA3ZIM0LScYi8DsRMyhje6Zk1UJQckB+LU=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/NoUpdateDial
+ og$1.class
+SHA-256-Digest: ICFdsccS8K0AkWlMg3mouCqyYo2o7R5Ol+LICGL2r1c=
+
+Name: edu/colorado/phet/common/phetcommon/application/ModuleEvent.clas
+ s
+SHA-256-Digest: n8N003xFyUHdbhAGCmjQ+VEjZThos+3I1ZNNhD10614=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$TabPane.clas
+ s
+SHA-256-Digest: 0gs+jy9yzKcTDc6L3Ee0uBVeolI7BAeP+fVTjeZQWkg=
+
+Name: edu/colorado/phet/common/phetcommon/resources/PhetVersion.class
+SHA-256-Digest: pna82wLteNzHXKDUMQcFXMRmmlOnY+wgr1hHYgZ38eA=
+
+Name: phetcommon/localization/phetcommon-locales.properties
+SHA-256-Digest: i5iKCq3dFDcwN3NEcly0Am2Iu45WpdlHnhhkn6HzwzA=
+
+Name: edu/umd/cs/piccolo/util/PNodeFilter.class
+SHA-256-Digest: tl5hgiKMidGsIRXcnh1INoswjDJiFiIv3+5Nh9tLH5c=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$TestModule$1.class
+SHA-256-Digest: z0wA2lm9DRIm5IYYfIei42LCNHsggnQKs2CktRnY2Fw=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/TransformManager
+ .class
+SHA-256-Digest: FMk5jiUkIIXhER318uVbwbywrd4nQ5Z7rNfqZDA3sXU=
+
+Name: edu/colorado/phet/common/phetcommon/application/KSUCreditsWindow
+ .class
+SHA-256-Digest: jsfblSO6CO9qL4nzBks3xG+6YAC8OKo824dSmvzhEnw=
+
+Name: edu/umd/cs/piccolo/event/PPanEventHandler.class
+SHA-256-Digest: DH17FMqldf2lSXZRw3qyeyO3evQKBf/zKZci8Uga6Io=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplicationL
+ auncher$ReflectionApplicationConstructor.class
+SHA-256-Digest: HpSlXoN47uzddbCmUNZ0aX0Rmhgi5BSdV4EOvP8vX3s=
+
+Name: edu/colorado/phet/fourier/control/FourierComboBox$Choice.class
+SHA-256-Digest: Yb7kCsa0MdaGNP9ZcndUYojzNDVbUnP72VRiEus8DTQ=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tDialog$HTMLFactoryWithImages.class
+SHA-256-Digest: G+/Q3IaVC6Cu+BeF2GIO9IsXhkZ6UskDr7B/63eOTiU=
+
+Name: edu/colorado/phet/common/charts/GridStrategy$Relative.class
+SHA-256-Digest: 2WFHoAuCamQnHQE8+ADXTUuALmSxWK2oVrmIFAjT/Kw=
+
+Name: edu/colorado/phet/fourier/control/sliders/DefaultFourierSlider.c
+ lass
+SHA-256-Digest: E5J+Jaj0Kbg0f6bw5/hnHmhCE0MIp56LuEy9LWahkb4=
+
+Name: edu/colorado/phet/common/piccolophet/event/CursorHandler.class
+SHA-256-Digest: hgXwknajYjcnkNJ6RziLejrhmDSgGMW4zY3jghR56aM=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimAutomatic
+ UpdateDialog.class
+SHA-256-Digest: pWVS52DrV8PGVtE5CUlGS+876QzsI2mMmKtDALbFFo8=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$1.cl
+ ass
+SHA-256-Digest: ct4qQjUuUvlo2XJBpLU38AVq8zrm7b1ravfl0o9947w=
+
+Name: edu/colorado/phet/fourier/module/D2CModule$2.class
+SHA-256-Digest: yp0Noful5N3y1CIoK8BIqUcRmmkRmpKG007VctCo8Zg=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/HTMLGrap
+ hic$HTMLRenderer.class
+SHA-256-Digest: 3FQjgiFGZnqU0BedXqv+U7/MdgApRdar+i4Gce95YnY=
+
+Name: edu/colorado/phet/common/phetcommon/application/ModuleManager.cl
+ ass
+SHA-256-Digest: XS90GJHcohllsRp9bf/zYg/6zFfaoK4SwCr1FEDV/gM=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon.c
+ lass
+SHA-256-Digest: jPYceX3+x59boA+w4k/yvXEzegeCGwYgpy8WnFBwjJk=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/SimManualUpd
+ ateDialog.class
+SHA-256-Digest: 0Sf0x1bIJs4GobYIGJbedr+WR88mzmTEQmvNmfCaxko=
+
+Name: edu/colorado/phet/common/phetcommon/view/MaxCharsLabel.class
+SHA-256-Digest: rkW8G+B+twmy+nra4Zk5A+LxEXWuPPpbJm/XEl0KtsM=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/CursorControl.cl
+ ass
+SHA-256-Digest: lVlxWXrr5U96kFUwY2/+UUFkj+YCd+K6eZv8Ozza4b4=
+
+Name: edu/colorado/phet/common/phetgraphics/application/PhetGraphicsMo
+ dule.class
+SHA-256-Digest: FZCyoGLECXxTW7PgZddRCbCIQrSf6feywhfk6kW1OBA=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PrivacyPreferenc
+ esPanel$DescriptionPane.class
+SHA-256-Digest: /wYFZitXv/unh4UlWcLIgi7DnaXJYNipODAlZTmWQx8=
+
+Name: edu/colorado/phet/fourier/control/GameControlPanel.class
+SHA-256-Digest: LD4939PEtPa59lx8btrSpT4F6FSl9R5uv3UKrGLzKSA=
+
+Name: edu/colorado/phet/fourier/persistence/FourierConfig$GlobalConfig
+ .class
+SHA-256-Digest: Ls4Byhcq1bUzQ6+GH5PLE8XCafSSYSIL6e6mgB0lJxk=
+
+Name: images/zoom/zoomOutButtonPressed.png
+SHA-256-Digest: KeopDBDDxuXFNwPqfgpPkkS+/YEF3Msuhi3nZLlEH38=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/PhetAboutDialog$3.cl
+ ass
+SHA-256-Digest: tvRvzgMQIA/RMm7YPZV463yBRWkyO8Zddo+GpLRDssI=
+
+Name: fourier/localization/fourier-strings_mk.properties
+SHA-256-Digest: EplHPlypxEeICqI46EdbvrxUAwHTv4WJXOPPsX8oWtE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/AutomaticUpdatesMana
+ ger$1.class
+SHA-256-Digest: o4VU2ZOLIlwzmK/VFay2/hTZAxPixUg5YzaTBDpfOu4=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$L
+ abeledSlider$1.class
+SHA-256-Digest: 12UflNVBJ64nZipqAEEFQi6Px/67JAj51d3vt1QmZ7U=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame.class
+SHA-256-Digest: 2F6rlukweulWXcSFzYkDix6bz8bZaoQY57ke5FWGL5Q=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$UpdateButton.class
+SHA-256-Digest: VKFaSAhQ9nJQugTaSJiIzjKmiHimuIrSYOHu4Qa+mow=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetGrap
+ hics2D$StateDescriptor.class
+SHA-256-Digest: lfI3Lr3y1wNfkDVzwptDl4+m4Zbs0KQICyO3Zsnk4bs=
+
+Name: edu/colorado/phet/fourier/control/HarmonicColorsDialog.class
+SHA-256-Digest: gkysbb+pTEDpUOsShgei7K5wEiac9TonevcQpOC3D8w=
+
+Name: edu/colorado/phet/common/phetcommon/resources/PhetProperties.cla
+ ss
+SHA-256-Digest: cEWVY9SDwTwqb5PvillZlxhXvEe+lrBp+na+/KTR/xY=
+
+Name: javax/jnlp/ServiceManager.class
+SHA-256-Digest: BkJ7KBd3VDaYbq7tsZrRa4Fzj+LbTQUbDEB4UJp4D3o=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$9.class
+SHA-256-Digest: DtDO4+JshAYR+B12GT1ucvw8qoCY1CpBYiT3I56+ac8=
+
+Name: edu/colorado/phet/fourier/help/HelpBubble.class
+SHA-256-Digest: uCGAcrB2lxOh7ubs/x3LIPYf6esVC/yk5WLSbRHEkxU=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloC
+ lockControlPanel.class
+SHA-256-Digest: 1tXBtlCprWgIrW4uJIcTtQKZ9Hdvs7ShEot3U3c41jg=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsManager
+ $1.class
+SHA-256-Digest: gL1OuI8IkB9WNvFTxrYpN05CPIYrDzeFG+bCvbXyMbQ=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/Abstract
+ MediaButton$Listener.class
+SHA-256-Digest: vma/9k5u4yvsUv9sKOkmfyK3wURfb2yI+iLdQM6maFk=
+
+Name: edu/colorado/phet/common/charts/AbstractTicks$1.class
+SHA-256-Digest: +/Bez2vNlkiSh3iOwpU7XNcrOkBOtfD71EuLHTq7bYI=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetLookAndFeel$Propert
+ yList.class
+SHA-256-Digest: 4Mvh/6wUCzwmk0fe2EvkCAbRR/cBEdrDaRj8Lx8IS/o=
+
+Name: edu/colorado/phet/common/phetcommon/view/controls/ColorControl$1
+ .class
+SHA-256-Digest: G1xgVfYMdAry8cR3XW2cArdm9cQMibOtxwnjRbiz2+A=
+
+Name: phetcommon/localization/phetcommon-fonts.properties
+SHA-256-Digest: 4L+wWlQYxZUl8Or1xbBKWUqJaTqYGn/R2qq84P8Hyrs=
+
+Name: edu/colorado/phet/fourier/control/FourierOptionsMenu$1.class
+SHA-256-Digest: TifxLKmCTiP2JLIqlWT3N+OdpbE1JhW+bQsgSZD8FiU=
+
+Name: edu/colorado/phet/common/charts/BarPlot.class
+SHA-256-Digest: dnNOhqKRFFFT2iyTEzVFMHnsNE1Y7O5vdeGcmV0voQg=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog.class
+SHA-256-Digest: 2z9cdaffjvPqP+YkfJqjR9cQ3hbA0nJ8veTJyQKubvw=
+
+Name: phetcommon/localization/phetcommon-strings_ar_SA.properties
+SHA-256-Digest: rXZTso4U9wo0Lci7ylybOXuxGK2r1LoqXz1z4wVrMy8=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloC
+ lockControlPanel$2.class
+SHA-256-Digest: NVmco2F4+ZtT7sv6P3HJksnr83/nct0iNAh8cFtae4U=
+
+Name: phetcommon/images/clock/FastForward24.gif
+SHA-256-Digest: hYCB6eqLE+SDCsN+rPmgCcyxRz7HKYg7Wd2Jdynr7/w=
+
+Name: edu/umd/cs/piccolo/event/PInputEvent.class
+SHA-256-Digest: werDHkIsPtB7leXOspELZ6h4Lre2jIKWrmjyhWhMVM4=
+
+Name: edu/colorado/phet/fourier/view/HarmonicColors.class
+SHA-256-Digest: 13Hjt62zxz765Gw1pcwWJ9G9mJY2I5qQmrwtil843D8=
+
+Name: edu/colorado/phet/common/phetcommon/view/TimeControlListener.cla
+ ss
+SHA-256-Digest: TYEMlBAnwefp/zJ1FRL1uG+oCtimDwyNwUmxr70yBmY=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$MouseListenerMethod.class
+SHA-256-Digest: E61DXyl8caTu5aShLuStvfGsh93jtDnq+xZUcXNR3zU=
+
+Name: edu/colorado/phet/common/phetcommon/view/SoftwareAgreementButton
+ $1.class
+SHA-256-Digest: 38w63XHnhC+ld6mZJxvNkw7hQqdYMEKI4iSyTIZeh3U=
+
+Name: edu/colorado/phet/common/phetcommon/updates/AutomaticUpdatesMana
+ ger.class
+SHA-256-Digest: fGMZSj2jG/sUHuq2j6Ev57WJ2XFQF8pVDu4xlB3ezJI=
+
+Name: piccolo-phet/images/zoomInButtonPressed.png
+SHA-256-Digest: C9TVsCD8IDxqlNJcf0FXn+rQbyQ9or5YJoFwI6/QCVE=
+
+Name: edu/colorado/phet/common/phetcommon/view/ClockControlPanel$1.cla
+ ss
+SHA-256-Digest: FyWlEHHQSMxYYq+6+FVVxkdg+mrjG0aeesYZAlJHyEw=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/PhetOptionPane.cla
+ ss
+SHA-256-Digest: 7NJ2TjlyRUUnT+MwUyyi4JrrnwHWrBo51qm4rRNG+24=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu$2.class
+SHA-256-Digest: 5FTho+UR7aS7T+7pYGcDlh7eQeQNW7uG2+EqDAyntpU=
+
+Name: fourier/localization/fourier-strings_es_MX.properties
+SHA-256-Digest: B/nlMTf4UjCJnwMdWVGVg8KTFpwmHwc6Dnay684sblk=
+
+Name: edu/colorado/phet/common/phetcommon/application/ModuleObserver.c
+ lass
+SHA-256-Digest: vDCNe5b+7FbX8DUiHy68rdg3J0Ck9AHtlgE3vc/DQVw=
+
+Name: edu/umd/cs/piccolox/pswing/PComboBox$PBasicComboBoxUI.class
+SHA-256-Digest: Re+aSy6iMtBok1BNj+tIESh5uCelYDNHMjSFpCXfVGI=
+
+Name: edu/colorado/phet/common/phetcommon/util/SimpleObservable.class
+SHA-256-Digest: 5ufGj+wAMezahEfl/3Vna/wSzqZxs/SqdMCCwkjIfhc=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/ControlPanelProper
+ tiesDialog$1.class
+SHA-256-Digest: eIS8oeSjj1DSbCRyl2u6s9MEWQMudfIzbdQIosD0p4k=
+
+Name: fourier/contrib-licenses/java-look-and-feel-graphics-sun-graphic
+ s-license.txt
+SHA-256-Digest: ipp0ibrsSX2TeLOradcLITLFY6daNQdRptqSfdJvl6I=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetShap
+ eGraphic$1.class
+SHA-256-Digest: 61yl9XFzU2LOmeyMPrPVRcVx1QkxMpFvzFlki9REu34=
+
+Name: images/zoom/zoomBackgroundVertical.png
+SHA-256-Digest: D7/powQL2So1HbJMwuM6p5/Cb8eAUsrLBpg0uLOFbdc=
+
+Name: edu/colorado/phet/common/phetcommon/view/graphics/transforms/Mod
+ elViewTransform2D.class
+SHA-256-Digest: iS9J2skbQ5ECemqUZqyBP0b4DGGLTwp82edlaq6ohUE=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame$2.class
+SHA-256-Digest: CFiUnCpyYyaLpG4qpJaI1Ad9Ai4Hi5y2cj/bUBGkqrw=
+
+Name: edu/umd/cs/piccolo/event/PBasicInputEventHandler.class
+SHA-256-Digest: 6ko+3jgwUFE35SC5ZiDV7v24R+RXwDT052PdWi9+d4Y=
+
+Name: com/thinktankmaths/logging/CustomFormatter.class
+SHA-256-Digest: Upzjupe4nij5xrjGNUTCbJcO9MDnA+YsW+X1W0/k9yg=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$15.class
+SHA-256-Digest: ZaUHQdqO/sBhGfTcUC1wl9p20CYwI5n2jjbSDQXQstQ=
+
+Name: phetcommon/localization/phetcommon-strings_mk.properties
+SHA-256-Digest: uEEg+3w7dOkCGaIBysRBngzDhHF29t+Av+s42FC7o+A=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteHarmonicsView.cl
+ ass
+SHA-256-Digest: jOUmgMd7dTQLDBNo1Llbp57YdfX80uGTds6Q8SPLb0s=
+
+Name: edu/colorado/phet/common/phetcommon/application/JARLauncher$JARL
+ auncherGUI$1.class
+SHA-256-Digest: 0q5/GnPQRI/SJJvlUCNMk096KDRBPyYdAXH/BSk6Rb8=
+
+Name: edu/colorado/phet/common/piccolophet/event/CursorHandler$1.class
+SHA-256-Digest: +EfkHEjJITRVFyUvb/hpXcm/Tx0CnkUy3W/8hr47wkI=
+
+Name: edu/colorado/phet/common/phetcommon/util/SimpleObserver.class
+SHA-256-Digest: 3WBSiZ60MPNfHmeuqGEyetqcr0Uf2Oz5b4JuXbCJAKo=
+
+Name: phetcommon/localization/phetcommon-strings_sk.properties
+SHA-256-Digest: 3QQL8/7Lqe4x+/k+L4t8BHltihCJ5ZPsnnaRAODIXVk=
+
+Name: edu/umd/cs/piccolo/PCanvas$KeyEventInputSourceListener.class
+SHA-256-Digest: NjCVjvqrH37993aYRfGKlCTFgJmDtuHRCnmgU+3CrVc=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/ClockEvent.class
+SHA-256-Digest: 2VKlXm/2VngJpl1R2DmgGmeU1DtccySF70D5wbQUjA8=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CComponentsView.class
+SHA-256-Digest: fjGncoIZogwf4KlOWRtPJmhJ6n3tXOzfNKHZsLqBhN4=
+
+Name: edu/colorado/phet/common/phetcommon/resources/PhetInstallerVersi
+ on.class
+SHA-256-Digest: SRUOxxRfR66P3mSzD2t91pPhMWG/gixfnwOtX3vFv0g=
+
+Name: edu/colorado/phet/fourier/charts/FlattenedChart$1.class
+SHA-256-Digest: m+M5dUPWkhVB+fmyqoTxb/QzGRmgaFFOQUVu1jFLO28=
+
+Name: edu/colorado/phet/common/charts/DataSetGraphic.class
+SHA-256-Digest: hRVtXdwwBQjwgJLczWFKtaL/GvH/iXawxqi3CEyavLU=
+
+Name: edu/colorado/phet/fourier/event/SoundErrorEvent.class
+SHA-256-Digest: j1UbaaSz1hjrSi43xnLXb0w1UaICGbY1I7iAc5CYQMM=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsMessage
+ Sender.class
+SHA-256-Digest: /tJirEXHNuCYkETBtJxC9p4OgRNhL5NKuYD9X34+rzg=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$MouseMethod.class
+SHA-256-Digest: Rtr26PeDJeUwBdXWUA7KiKFV5NZsxEeOQssBG6ukyPk=
+
+Name: edu/colorado/phet/fourier/charts/AbstractWavePacketWidthPlot.cla
+ ss
+SHA-256-Digest: +mCKw6wtEQ1ankajzm+hcgUBajyMC+wQZMu76M+6Thc=
+
+Name: edu/colorado/phet/common/phetcommon/view/graphics/Arrow.class
+SHA-256-Digest: SQmejmWR37byzlo3eYs2giOFlslgl9tbsdlWMRvXNJw=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$10.class
+SHA-256-Digest: XyG/O12uQvPTVs7t11CaFG9jsU+/CqP5JFnANXnqDTY=
+
+Name: edu/colorado/phet/common/phetcommon/view/TimeControlPanel$3.clas
+ s
+SHA-256-Digest: bId7peJJCoS496kGfmXvKJZGZ4UbG2w/CWdKNLIGVHE=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/DownloadProgressDial
+ og$2.class
+SHA-256-Digest: 70Yf608BpwRoFop9q4uD5qYWk7NvIas1/UnSApqmJgc=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager$AcceptanceDialog$3.class
+SHA-256-Digest: /36pOJ+KJmVNeYmu8jA4LWAIQwHuJBwB1DjEQ7MvF4A=
+
+Name: edu/colorado/phet/common/phetcommon/resources/AbstractResourceLo
+ ader.class
+SHA-256-Digest: 23mjteWLWzSuEx/maTp9F4tOt/H5TNFsM6lu0pkPBAM=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: hEWpwvlGNvIvEc5P6rKy3HB6sDEqqDmdFuOXI5o1EZ4=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsMessage
+ Field$SystemProperty.class
+SHA-256-Digest: kwSAZTOeOu1lPLKXhez/4VsU/o9yr+S45obAb88R6ms=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PrivacyPreferenc
+ esPanel.class
+SHA-256-Digest: KaSCl1D8wpmY0ktOX8t+W+CE8zmKUIEiclZ8M7vNExM=
+
+Name: phetcommon/localization/phetcommon-strings_fr.properties
+SHA-256-Digest: T3LNpor/Y1T0pZe6w7GDrpB/+oP0ZRzoa7n3SRsY5vo=
+
+Name: edu/colorado/phet/fourier/enums/WaveType.class
+SHA-256-Digest: huLZxgsLFIHXqlGZPooluyunHOGXNjHjhXD5glpYk5Q=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpPane$Test
+ Module.class
+SHA-256-Digest: 7DRrTafj/lHunUVh92V8yo2D3x2PyAPnG79TL4GSdpc=
+
+Name: edu/colorado/phet/fourier/control/GameControlPanel$EventListener
+ .class
+SHA-256-Digest: gNOIT7jkmQ5WSCoxYY6q+zF5RDTcmkEHwmVNx2mSqAU=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/ImageLoader$LoadSt
+ rategy.class
+SHA-256-Digest: vYgvmZocpKlJtEVPbhcRNEf1PqOmHVsSGv5JmqxtU88=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/NoUpdateDial
+ og$InstallerNoUpdateDialog.class
+SHA-256-Digest: u6vh2xnER7S6obEiM93CSvw1fDw+VY7LYfnF4qy4Us8=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetApplicationL
+ auncher$2.class
+SHA-256-Digest: ELslDkJMxdepkyB4aiuDyLgc5LsUS0wSJYTVEWbRkqE=
+
+Name: edu/colorado/phet/common/phetcommon/util/EventChannel.class
+SHA-256-Digest: mfoS9p5vYS5x1WAbP2YgBgxt8QS4hCCa4R/5g/nIBYM=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel$1.class
+SHA-256-Digest: CkWBsL8Nqiwa/wxDh/guyFTq210dnzeJF5YhBiEQoK0=
+
+Name: phetcommon/localization/phetcommon-strings_tr.properties
+SHA-256-Digest: eLfnP2tRBX4Ai7dhycd5V4W12KzBwbJwhgwHcyYQreU=
+
+Name: edu/colorado/phet/common/piccolophet/PhetRootPNode$WrapperNode.c
+ lass
+SHA-256-Digest: mUGdScFU0bJVlUvHgwAHMuo+rJ7+1RQd28fFL7IkBus=
+
+Name: edu/colorado/phet/common/piccolophet/help/AbstractHelpItem$PNode
+ Follower.class
+SHA-256-Digest: 1uCQfxybov2E0/OR6WZ/9htmUFMC9rPt7eaBs4oZvrM=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel$4.class
+SHA-256-Digest: A32Vdo45OxsCduwaL2nFe34u8OfEE0PBeU4OjFGjwXE=
+
+Name: phetcommon/localization/phetcommon-strings.properties
+SHA-256-Digest: fm0vFGYuuJ/+YYwMUM8uXQidxgxsxntJkkj81NbfvPU=
+
+Name: edu/colorado/phet/common/phetcommon/view/PhetFrame$4.class
+SHA-256-Digest: EbjP8082xjC9WIOyNm96+7xkr3euQSCuoO1EzbgPMP4=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel2$Offsc
+ reenBufferStrategy.class
+SHA-256-Digest: DuE1+xDQV3PzkqeYVKASNqrb0jJcVtnBOZQg+DHd2cM=
+
+Name: javax/jnlp/DownloadServiceListener.class
+SHA-256-Digest: n80MG1iUkFBLO5I5ITau9LKi687E4SzYjhKlKq2/XJ4=
+
+Name: edu/colorado/phet/fourier/view/tools/HarmonicPeriodDisplay$Mouse
+ FocusListener.class
+SHA-256-Digest: Td4FluRZN1cssYz4meaRmzfvLiDO3oEuyxJBk3gIq2Q=
+
+Name: edu/colorado/phet/common/phetcommon/application/Module$1.class
+SHA-256-Digest: KreyZKmCYlBAjkdCGlLrhlz0XBWgGhrIDIHVLGS4y9g=
+
+Name: phetcommon/images/clock/Rewind24.gif
+SHA-256-Digest: ZTd7JRuXt5D0OJgqGYzVSlKgQP5yH5pKQKjRwIRGXS4=
+
+Name: edu/colorado/phet/fourier/FourierApplication.class
+SHA-256-Digest: 7geq3f6KABqXko8g46LS7OjSlrNB1b+AAbGrpNeR64o=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesMenuIte
+ m$1.class
+SHA-256-Digest: IvcxhaXjiHJJfgfqikFfv/vwMyKHow5ALeizrRcw3pQ=
+
+Name: edu/colorado/phet/common/piccolophet/help/GlassPaneCanvas$2.clas
+ s
+SHA-256-Digest: UCU2j5iyiYvY6gJJJr7pSwKa59/tlOONmYIlfHoV4YI=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetShap
+ eGraphic$Rectangle2DComparator.class
+SHA-256-Digest: ZIslnXyPQfwbRxoRN/LLBum3xgU6wQzhz8cC6jCoLMc=
+
+Name: edu/colorado/phet/common/phetcommon/math/ImmutableVector2D.class
+SHA-256-Digest: xShe+nHORDdnmodfsXA1a0x144RmN53ntfWLLgPmtsE=
+
+Name: edu/colorado/phet/common/phetcommon/updates/AutomaticUpdatesMana
+ ger$1$1.class
+SHA-256-Digest: Kb0iVX8W7Z8GCqhnxUS+2B0D0wdUSZoR/GJDtyJFigY=
+
+Name: javax/jnlp/FileSaveService.class
+SHA-256-Digest: QpIvSR2JCLk3m4KulTpVmVquhL+hqDKzQkeqG/crhFE=
+
+Name: edu/colorado/phet/common/phetcommon/view/ResetAllButton$1.class
+SHA-256-Digest: 1K9O+BfTELtDsNKXQKtBEh+JDx4hcfc0H5KQwr2///w=
+
+Name: edu/colorado/phet/common/phetcommon/application/VersionInfoQuery
+ $Response.class
+SHA-256-Digest: OQqBwg8NOncQdkBZ0fTeOSlEpVVZmxqIWWG2hzGeZiU=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager$AcceptanceDialog$1.class
+SHA-256-Digest: 6QISED0UKSBmg0sjmvueHF07xHmYGk1+3LDc/SiJYQk=
+
+Name: junit/runner/logo.gif
+SHA-256-Digest: ZNYwhg3h4PNj5yJ09XjFcvkleBe7tQH7Z9lB2HY+/W0=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/FrameSetup.class
+SHA-256-Digest: sNheJp+oCmpeW0OasAdk7vJTmrc3NZ+waI6xqe8/4hU=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetGrap
+ hics2D$1.class
+SHA-256-Digest: Mln2/jZ2sceeMn1jde8O4Pl9ICU157FJWRG5oYMU4nc=
+
+Name: edu/umd/cs/piccolo/util/PAffineTransformException.class
+SHA-256-Digest: mfoBeuFP3PZH2v98s6mapPzOVeP+sLTqxtaSWo4v/BI=
+
+Name: edu/colorado/phet/common/phetcommon/view/LogoPanel.class
+SHA-256-Digest: eGDQ6pmAsXdCWtFmwF1ZJ/anFXsidO10bRk5OaYj1WE=
+
+Name: edu/colorado/phet/common/phetcommon/application/VersionInfoQuery
+ $SimResponse.class
+SHA-256-Digest: xyCcwGAgiOILNRImlvlCU4ESmuajiWb2wvkHx3LWYQ8=
+
+Name: edu/colorado/phet/common/piccolophet/PhetPCanvas$RenderingSizeSt
+ rategy.class
+SHA-256-Digest: cRB1G+jGXI1pAr5AF5bDibsmpNaoOuwKdNDQbJm/gS0=
+
+Name: edu/colorado/phet/fourier/module/DiscreteModule$ThisWiggleMeGrap
+ hic$1.class
+SHA-256-Digest: LyiXekKBBI2LGI/mBQz72tt2gNw95n0j6FbREF63JoA=
+
+Name: edu/colorado/phet/common/phetcommon/application/PhetTestApplicat
+ ion$1$1.class
+SHA-256-Digest: F3HandBzNAbJ8THe2CLTq2uIm9m4zwDqeajRNtvgPEs=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetGrap
+ hics2D.class
+SHA-256-Digest: nFrRmfc2oBqPJKr3SVhoDy0Z/YC6L/VJqUvXv7pAxp8=
+
+Name: phetcommon/images/buttons/closeButton.png
+SHA-256-Digest: HxNXfFZB56U+SCFmAq/46aty5fEZVhpDDLNVk+Y61zs=
+
+Name: phetcommon/localization/phetcommon-strings_iw.properties
+SHA-256-Digest: BJmj7nqsQg2z7NCut9OvQjikCNkz2exhJYpC/cWgrao=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$1.class
+SHA-256-Digest: WGriwA72Iqcij0lO1JaELNBMSTMlg7IzAKSBTFbt7IQ=
+
+Name: org/eclipse/swt/internal/image/package.html
+SHA-256-Digest: 0CFzFn4vcR/HyeIiKsYk5zNxyj0KJ8VGH+JvHiVNgfo=
+
+Name: edu/colorado/phet/common/phetcommon/model/BaseModel.class
+SHA-256-Digest: jvzHOcyRwnxkt+TRV+oLA2w4s5N0spsg4T2ozI7j3co=
+
+Name: edu/colorado/phet/common/phetcommon/statistics/StatisticsMessage
+ Field.class
+SHA-256-Digest: m8XN4jgJ7PWW894/J9Qg2s6GVEfEU+sP4I59OQBBhso=
+
+Name: edu/colorado/phet/fourier/control/ExpandSumDialog.class
+SHA-256-Digest: 4DODqL8I14yXBuW0VDTKgz3yNv9nR8lXR+kfIllzU8E=
+
+Name: edu/colorado/phet/common/phetgraphics/view/ApparatusPanel.class
+SHA-256-Digest: b0OrbrKQt5y5ejWHvNgBql5UqK6LTGfLZa1OfJ7ZvXc=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/CreditsDialog$Intera
+ ctiveHTMLPane.class
+SHA-256-Digest: 8qFeBAUapJc0PF6FD6KOauSOkRHRnHxGa3AS5yRJWoo=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/UpdatesPreferenc
+ esPanel$1.class
+SHA-256-Digest: 7phvRcyQMJJlHZeaXYTQ8ztDLSsoMTzvFRoHcYWhHLA=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$13.class
+SHA-256-Digest: oRywxb2mWDoc8v0bEgfJrX1PrW8z/cbTmtc/WM6glo8=
+
+Name: edu/colorado/phet/fourier/help/WiggleMeGraphic.class
+SHA-256-Digest: Zsq5rU6WFkTwoourDz8N7Zh6ekxkzx0ejGIwpMgHxJI=
+
+Name: edu/colorado/phet/common/phetcommon/resources/PhetResources.clas
+ s
+SHA-256-Digest: bQU5eEmizeYavjtCajAVc5bXJw+KLi/h1sS2XCGT5lA=
+
+Name: edu/colorado/phet/common/phetcommon/view/ClockControlPanel.class
+SHA-256-Digest: TZKc5SOABeVsVMAwI+q4zB4mvHm0o2MpA075QK2n+Mk=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesDialog$
+ 1.class
+SHA-256-Digest: NEmaGnjYIQnzkubHzAUo+3kTIv1qTNIMWAukJrcDY8g=
+
+Name: piccolo-phet/images/zoomBackgroundHorizontal.png
+SHA-256-Digest: Wbo9FdWUbLbFVBrRofplbaa9/XjGjdxupkZ/L2Z5OoM=
+
+Name: edu/colorado/phet/common/phetcommon/view/JTabbedModulePane.class
+SHA-256-Digest: U9RpQQtgX8r3KJxo6It0dpKjyzpzUaqyAtzUAfQ0bBI=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/HTMLNode.class
+SHA-256-Digest: aShsWs//NKThT0aHM4pNtk/vNcL6CUTD6FYue4j30Lw=
+
+Name: edu/colorado/phet/fourier/view/AmplitudeSlider$TrackEventListene
+ r.class
+SHA-256-Digest: FDdyfQwwFdn2+T7zQFnSA4VP1+Ss+AbZgZgaxdsd+qw=
+
+Name: edu/colorado/phet/common/phetgraphics/view/help/HelpManager.clas
+ s
+SHA-256-Digest: nRhUAPWWjQtCuGLIwakfaOYO071031RgAtonsIvJ548=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$17.class
+SHA-256-Digest: 8HjOFPMD5FXP6VZfNvUkT9NwTc1ZfSRE3oJmsXr8Zq4=
+
+Name: edu/colorado/phet/fourier/enums/MathForm.class
+SHA-256-Digest: oyT0UaMyy65vK6b5rPcXkwwXWCJMdmZ3RcpW45nzANE=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/ImageLoader$PhetRe
+ sourceLoader$ResourceLoader.class
+SHA-256-Digest: rHJWI9NoGbG6/Aa950Ms5HdMn0V/fq94pMa/5sUKNbU=
+
+Name: fourier/localization/fourier-strings_it.properties
+SHA-256-Digest: W0k+ONDLqmdiP4JSSihe6PzHqmnzskGtVDFSziDX0Xg=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PhetPreferences$
+ PhetPreferencesFile.class
+SHA-256-Digest: +enLyfKluzoFHxREVl6NaOlPYTieDNtzJY8cavWOvtI=
+
+Name: edu/colorado/phet/common/phetcommon/application/PaintImmediateDi
+ alog$PaintImmediateTimer$1.class
+SHA-256-Digest: hIkWes29p5XEC7jxPpOL95I58aVb7V/9TvizLJn9ZzY=
+
+Name: edu/colorado/phet/common/phetcommon/updates/SimVersionSkipper.cl
+ ass
+SHA-256-Digest: iI0rkK2IxVXAP1wkuXSg9GJkP/9rVZ4fr0xcSA8hoXg=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/ClockAdapter.cla
+ ss
+SHA-256-Digest: WU3hWENRdI3P+X9/JfXlXL/sFyPbrIMbKTv1HljManI=
+
+Name: edu/umd/cs/piccolo/PRoot.class
+SHA-256-Digest: /evYQkYpyiGOlJXtJmDDTx1/fVAX/lvs+dlSX/sKcb4=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$WebStartSaveLoadStrategy$1.class
+SHA-256-Digest: NTL6mAIyP/tLjCwRQ9t4Ri7cqXkQsObLhuh11A/3fnI=
+
+Name: edu/colorado/phet/common/piccolophet/nodes/mediabuttons/PiccoloT
+ imeControlPanel$3.class
+SHA-256-Digest: JhpyrId5tiKph751CSX9836+dPnpS4rjnR8Qeut9+m4=
+
+Name: edu/colorado/phet/fourier/control/D2CControlPanel$EventListener.
+ class
+SHA-256-Digest: dfsLpXj8owbuUrNDJVDiFXpSgedWt7tWZK1FIExiM6A=
+
+Name: edu/colorado/phet/common/phetcommon/view/ControlPanel.class
+SHA-256-Digest: J53uk63s1wE1tM2xVL4Mzjvu4bUmyRWIWNANilahP4s=
+
+Name: edu/colorado/phet/fourier/module/GameModule.class
+SHA-256-Digest: lDzGb0gaf0W7RjM/lDP1cwbXH0Vpq5s3EC78FPKvCXA=
+
+Name: fourier/localization/fourier-strings_fa.properties
+SHA-256-Digest: 0Z5EpKIxmRSJ9gdnTPvdx8YOjHpq7pm4EOuqBGuE9uE=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: GPJhuX9BllOf/nWKLHwFigPLjMJoO7r0ZjqacPTodGY=
+
+Name: edu/colorado/phet/common/phetgraphics/view/util/GraphicsSetup.cl
+ ass
+SHA-256-Digest: A2oj2wemGuoYxj4yAsMz5QklIYCnoWl0TBnf34paMCU=
+
+Name: piccolo-phet/images/measuringTape.png
+SHA-256-Digest: CBqmz4x0riz/squeMv22UFS7q8cxT2nog2cUj5+UV2Y=
+
+Name: phetcommon/localization/phetcommon-strings_es.properties
+SHA-256-Digest: Ijx5LrBhQIr51jYU/LAIZsWxMr4m1KcYb9US9crsniQ=
+
+Name: edu/colorado/phet/common/phetcommon/util/MultiMap.class
+SHA-256-Digest: Q57eFnO2NbAF3GvvQ+T/Qws0WVP9PaSCf26DYjXynvU=
+
+Name: javax/jnlp/ExtensionInstallerService.class
+SHA-256-Digest: EmctqFYeC5+V8Ctdn+qRqaQ4Jh9PcbmR6f0qx39rckc=
+
+Name: edu/colorado/phet/common/charts/Chart$TickMarkSet.class
+SHA-256-Digest: OdMpz5mcl0qrnO6D20c6OHoMTVD2v88g3WyiGs04KFc=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteSumView.class
+SHA-256-Digest: JEt5e99KvGkMuCqXsyFiB1gLreUokHzDol8DZkzeaMg=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$WebStartSaveLoadStrategy$2.class
+SHA-256-Digest: rQXA6iDW5HN89lU8IM7HjYlDW4oMVdgMQ4oSxCs9gZI=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$4$1.class
+SHA-256-Digest: F1GGK6ZRUJSnGyjvXDulAhDXQiiI0xdLWBMDnv2FqWI=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponentManager$Listener.class
+SHA-256-Digest: p9lGBIpsN3VZriEYTilACPSU7aVjJIQbf3rSeZipoSg=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow$
+ 2.class
+SHA-256-Digest: P29YD+lONtAHrdPza+AtpZ013ss+b+iOB6CLVq264l4=
+
+Name: edu/colorado/phet/common/phetcommon/model/clock/SwingClock.class
+SHA-256-Digest: P0S8aGl+SbZpaQNEFfIFItto+crNpna8SzhmM+zDhhw=
+
+Name: fourier/localization/fourier-strings_bs.properties
+SHA-256-Digest: CkcpvuPAVqL4nkPowl8fA2vYjW9wm8LFTJdEQTZLv4I=
+
+Name: fourier/localization/fourier-strings_eu.properties
+SHA-256-Digest: k1oVTKj4XNY218G6OedcHkl8SUQFFeWcF5Kc4BqAUkU=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ContribLicenseDialog
+ $1.class
+SHA-256-Digest: aXukOOR33TUW4gxiOAXJ/aXH19htb7oYE/G50r6cZ/Q=
+
+Name: fourier/localization/fourier-strings_hu.properties
+SHA-256-Digest: beTPnUcEAuubAyUWvPsuB6+9CLEK9kYq7K5xpkBH/JY=
+
+Name: edu/umd/cs/piccolo/util/PUtil.class
+SHA-256-Digest: fzaj8PfZZ7+XT4vvX2hkmpo9vkbaz4qUU69+XxnTGdk=
+
+Name: edu/colorado/phet/common/piccolophet/help/AbstractHelpItem$JComp
+ onentFollower.class
+SHA-256-Digest: H6SsWrbW2OUsM3Mwv29hkux1XtgE1Ecl14VHrYqmxHM=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow$
+ 3.class
+SHA-256-Digest: oszDfaWhvJKW8x5zV7irdG79IoCtTES7/FX9ynGnn/I=
+
+Name: edu/colorado/phet/common/charts/Grid.class
+SHA-256-Digest: iZ5OCe5eEayHnsq5y2ITcF2KZ352mzU/K8ioFZSl4ZM=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/GraphicL
+ ayerSet$KeyAdapter.class
+SHA-256-Digest: AI1EcpALB0t4j4oPuQOPWc1s5B5KDd/p4zpx3hfhusA=
+
+Name: edu/colorado/phet/common/phetcommon/util/logging/LoggingUtils$1.
+ class
+SHA-256-Digest: ah1cioEd1H7G7y37pUrLdjy9mzU7LhhYzi/fFSUVQkw=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CSumChart.class
+SHA-256-Digest: cc6cd2Zasbb4dNlmEWSXx/FSi9QRmhBDjnPwOSu0Q+A=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$16.class
+SHA-256-Digest: skTVsyhxncKWXLBpMEeQKRF46zy9P2tytjimadjQplI=
+
+Name: edu/umd/cs/piccolo/util/PStack.class
+SHA-256-Digest: hWzTpeYFEBSfgU/ddNSkjH/zXFt15cuX5BxJmx7fXDs=
+
+Name: edu/colorado/phet/fourier/view/game/GameHarmonicsView.class
+SHA-256-Digest: lo9mNsXXbT8XzUrK2zbP09FZ/ZCNYOrteJ4AYuDoF2g=
+
+Name: edu/colorado/phet/common/phetcommon/preferences/PreferencesDialo
+ g$2.class
+SHA-256-Digest: Qp87b2Bdvxl137Z/kA6iel8c33LwYU1aMNknCeK3vyE=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu$4.class
+SHA-256-Digest: 8eyNZKxeuMMq5dxDxzbuUG0HnGGGgfJLaaWIbDnk8Ko=
+
+Name: edu/colorado/phet/fourier/view/tools/HarmonicPeriodDisplay.class
+SHA-256-Digest: GNQNPhFwR0XH/k5Oc29ZrJVFalwrRZ50Q9HPCIA9JqU=
+
+Name: phetcommon/localization/phetcommon-strings_da.properties
+SHA-256-Digest: euvRPqb69c+VlAi5Vn6QCOx6Y8HqyAqPQqp5bTbTYvg=
+
+Name: edu/colorado/phet/common/phetcommon/application/VersionInfoQuery
+ $VersionInfoQueryListener.class
+SHA-256-Digest: a9l3T0zyJYxlae75xFp0llnE+72fyu7PjC6NnBNCtn8=
+
+Name: piccolo-phet/images/velocity_center.png
+SHA-256-Digest: RQ1Ganlz9Dmv5gs2awltKLuRBGBOY5SKF3mdGiQcyEI=
+
+Name: fourier/localization/fourier-strings_nl.properties
+SHA-256-Digest: 7YrBIp7AUp/X+QIgJk58x93ZBcGtJb575Ysy+lXJ4II=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/FrameSetup$Centere
+ dWithSize.class
+SHA-256-Digest: UsMxeCKqwXvJgSGftox+1v2/23B/gfqs44a7OiC5GiI=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/EasyGridBagLayout.
+ class
+SHA-256-Digest: nwGUvNYTYGmezbnCu6zkwnbG0tng5T+eyyRedZMntNU=
+
+Name: phetcommon/localization/phetcommon-strings_ar.properties
+SHA-256-Digest: dplTFizPFYi1QLLZwaORwbD6nWJIEe9zwFekpmI1Y0E=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu$3.class
+SHA-256-Digest: ZPK/c+u2ULbGI7fYhX5tIK+p2CQdzGrmdUs9+ouve3Q=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/HTMLUtils$HTMLEdit
+ orPane.class
+SHA-256-Digest: NtMxpxWNVUq0GJAXJQo5gg2Rfe6/KsRO15WnHBHAHQc=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesDialog$
+ 5.class
+SHA-256-Digest: Qesw3y3dVg4pgGKlP9u6a2nbEXDRf60iLighXh8GZ4U=
+
+Name: edu/umd/cs/piccolox/nodes/PComposite.class
+SHA-256-Digest: 3oznkv/2rV0SuETxYgXINuSmz83T+gAgCOk36h+ijC0=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/ImageLoader$1.clas
+ s
+SHA-256-Digest: nQ3Bmr1PwzYhzCPn/gecCElX+tGC21nI2y0g2+0dogI=
+
+Name: fourier/localization/fourier-strings_sr.properties
+SHA-256-Digest: CCfKmmuIn4HP6bpd6mMTNWkbbOfJg5r4wZIyNOvNy2s=
+
+Name: edu/colorado/phet/common/phetcommon/servicemanager/PhetServiceMa
+ nager.class
+SHA-256-Digest: VJ3ZpXVWJM0luVpHEf6zUqsvoD1C8BMDEx6zpOX9ApM=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestGlassPaneCanv
+ as$1.class
+SHA-256-Digest: yqZo48aciUtKF50/bS//S+1L4nCA90N3hWhMet7VYR0=
+
+Name: javax/jnlp/UnavailableServiceException.class
+SHA-256-Digest: 0fGpeE2reY/9P2VzhlsEozPTQKShyRsj/lpww2bYGEo=
+
+Name: phetcommon/localization/phetcommon-strings_nb.properties
+SHA-256-Digest: UKYrAWMl+nDij+l1KZco+TtCZyJ4v60BQ5CKORWIcKw=
+
+Name: edu/colorado/phet/common/phetcommon/util/persistence/XMLPersiste
+ nceManager$LocalSaveLoadStrategy.class
+SHA-256-Digest: rSJDnkxORW2/x4KyutXLiKO9bzx2TGqMGRAwfo4n85M=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$4$2.class
+SHA-256-Digest: wQ5NfjUT4unFIwCDCL2eL/Vdu3v+mO+natNIlLg3dAA=
+
+Name: edu/colorado/phet/common/phetcommon/updates/dialogs/InstallerAbs
+ tractUpdateDialog$AskMeLaterButton.class
+SHA-256-Digest: nw92lUKiSgV6Pl8LgSQLwHaVGam0YMas5d6Hf9RGkTs=
+
+Name: edu/umd/cs/piccolo/PCanvas$1.class
+SHA-256-Digest: rCUv1O+wkW7RpGTkD4aRGY6iP13b+bmN6gDCSP+kAiQ=
+
+Name: edu/colorado/phet/common/piccolophet/help/HelpBalloon$1.class
+SHA-256-Digest: 0eCQpSI/RiX4VNWz3trGOVHGRodVvBs0DjGRuPbY+Bc=
+
+Name: edu/colorado/phet/common/phetcommon/application/SoftwareAgreemen
+ tManager$MessagePane$1.class
+SHA-256-Digest: uCd3ATU4jxt5f21dunRdOmZQKqdZGIIv7YLFRblaaKM=
+
+Name: edu/colorado/phet/common/phetcommon/view/TimeControlPanel$1.clas
+ s
+SHA-256-Digest: Din15guK6pcaflW6cpGfckcyw47/41hwUEGxEmXaWzI=
+
+Name: edu/colorado/phet/common/phetcommon/view/util/StringUtil.class
+SHA-256-Digest: Tv5Nl/cpBr2ko35kHHaXQotUFaeqFZ8PJaDjOICxtgw=
+
+Name: fourier/localization/fourier-strings_ko.properties
+SHA-256-Digest: 8nwSMK2hp+KsH1SIBF4ftHsOnhQtwVQXexVF1LiNz9s=
+
+Name: edu/colorado/phet/common/charts/GridStrategy.class
+SHA-256-Digest: k9jwDvjAE8T3tRW9SCcbHPq6ymKTGkLpUoVowbCVlmg=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/PhetShap
+ eGraphic.class
+SHA-256-Digest: ar9nxjSX586aDIsMmMVyLpBcI1LXaYgOSCZad3+PX/g=
+
+Name: edu/colorado/phet/fourier/enums/GameLevel.class
+SHA-256-Digest: Zbf4Waq2KAhW0Hmnhwa+YAKc9P8uzRuZS1lMxpvtZK8=
+
+Name: edu/umd/cs/piccolo/util/PPaintContext.class
+SHA-256-Digest: w2JEXcDV+DiKN9ZBea/ZEoXKPqi9lOZfJjvdAhsRGsM=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$18.class
+SHA-256-Digest: SJr2TEp5gnZWmzrfsndiDCpfGJvlA2ELnTOg0WIafjY=
+
+Name: edu/colorado/phet/fourier/view/discrete/DiscreteAmplitudesView.c
+ lass
+SHA-256-Digest: PVEGZzLv2TqaQgW9Opg8+ZFC1P73Vb3hjDq2ZuE+mzU=
+
+Name: edu/colorado/phet/common/phetcommon/application/AWTSplashWindow$
+ 4.class
+SHA-256-Digest: y/D6qMBeNVQ68heprRDE24SW8xUhJ0WADluPeMcBbcY=
+
+Name: edu/colorado/phet/fourier/view/d2c/D2CComponentsChart.class
+SHA-256-Digest: Na1fAEDiA7fUTSYMGRfF4P467rwJ7zIOwsBT86TtGa0=
+
+Name: fourier/fourier.properties
+SHA-256-Digest: w8B9o+5KI2V1IBtPuxqiWSokPAK42h1kM+XAeHhLMSs=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesDialog$
+ 3.class
+SHA-256-Digest: dbDNMWP33wFBsq6uzgVf073TEHr3y6VqzPlTyd7WFX0=
+
+Name: edu/umd/cs/piccolo/util/PPickPath$PTuple.class
+SHA-256-Digest: cu9FHb8rV0L/fpuVDgH+OIcMDhvhd6W03JZk0MuN+3I=
+
+Name: edu/colorado/phet/common/phetcommon/updates/IAskMeLaterStrategy.
+ class
+SHA-256-Digest: GM3uuT8qljg3cDi/zTWd+CQ4dWImyYh+3F3lBCMnJqg=
+
+Name: junit/runner/smalllogo.gif
+SHA-256-Digest: i3XszUGBcsCyhZodPsbxpxmWxEDa7eDS7K8jjYe7PWc=
+
+Name: edu/colorado/phet/common/phetcommon/dialogs/ContribLicenseDialog
+ .class
+SHA-256-Digest: Bga1D2H4vO1JYl1SD3JtouvWu/6RJVmzG8r70sFYrKQ=
+
+Name: org/eclipse/swt/printing/package.html
+SHA-256-Digest: p6A2DVyeI6X2N0EzqvWhqOi2AEt8g5egFX7fu33luIc=
+
+Name: edu/colorado/phet/common/piccolophet/TabbedPanePropertiesDialog$
+ 2.class
+SHA-256-Digest: SHKStb4vR/uDF3iGST6GZ/9qzeNcfZHslNQobyjK+RQ=
+
+Name: edu/colorado/phet/fourier/charts/GaussianWavePacketPlot.class
+SHA-256-Digest: 3QZC2FL2nXHnba7BsFrzGbZiDVnyJVRAAEIRTYThXvc=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpPane$Test
+ Clock.class
+SHA-256-Digest: neGwUP7wu8cPpkUqusVs6wirhzykRKiKFaMd/t1qLq0=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$T
+ estModule$19.class
+SHA-256-Digest: Anj4arhOineX8Hpyj+Fh6NFja5sHrT+ecvFLjxJwivw=
+
+Name: edu/colorado/phet/fourier/view/tools/MeasurementTool.class
+SHA-256-Digest: 44pUKdk8w8OZYzeGn4CzHADmqZp5x/HhiG8iEfScmxc=
+
+Name: edu/colorado/phet/fourier/control/DiscreteControlPanel.class
+SHA-256-Digest: xXabyCbYC6b9iZ8hQF4/thIvpuCgCBOmCJfEZZE0eek=
+
+Name: edu/colorado/phet/common/piccolophet/PhetTabbedPane$TabInputList
+ ener.class
+SHA-256-Digest: a8OPknYmgObN5EmEw/HNja9rCkp8jc1hjdoKFRM8JpI=
+
+Name: edu/colorado/phet/common/piccolophet/test/help/TestHelpBalloon$L
+ abeledSlider.class
+SHA-256-Digest: /nUlS12acxJmZVOL7WfWSanwi3pwD8BO3i4kPG57qbg=
+
+Name: edu/colorado/phet/common/phetcommon/view/menu/HelpMenu$1.class
+SHA-256-Digest: HSV4yKmOxMmA+vQRW5r7DgErYsk+7ldni+/JmmqT7qg=
+
+Name: fourier/localization/fourier-strings_es_PE.properties
+SHA-256-Digest: wlTnqjYYTOJIKFzdug1m80tyEUYSBTweWEl9kw2RHHA=
+
+Name: edu/colorado/phet/common/piccolophet/help/HelpBalloon$Attachment
+ .class
+SHA-256-Digest: M3vYchjtdNMIZhPTioa5z93ZoaV4+5De711ZuJupOos=
+
+Name: javax/jnlp/ServiceManagerStub.class
+SHA-256-Digest: tVXLdL8KkJ72LVqcS0DafPN+pmqYiA1qtzMNheaVOb0=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetgraphics/GraphicL
+ ayerSet.class
+SHA-256-Digest: Z5YaKKfyHNUkaJ3T4OyMpVeueBemO5zNRZYHSYC7gMc=
+
+Name: edu/colorado/phet/common/phetgraphics/view/phetcomponents/PhetJC
+ omponent$4$3.class
+SHA-256-Digest: qtLS2pInpKpwXdTyc8iK7yNj5b8xITlDNevBuqWD+8s=
+
