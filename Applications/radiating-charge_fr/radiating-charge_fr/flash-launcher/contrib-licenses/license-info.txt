@@ -1,1 +1,0 @@
-#This file identifies licenses of contributed libraries
